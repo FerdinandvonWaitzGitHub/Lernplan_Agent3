@@ -27,7 +27,10 @@ const sendHttpRequest = (url, body, headers) => {
                     resolve(payload);
                 }
                 else {
-                    reject(new Error(`OpenAI API Fehler (${statusCode}): ${payload}`));
+                    const error = new Error(`OpenAI API Fehler (${statusCode})`);
+                    error.statusCode = statusCode;
+                    error.responseBody = payload;
+                    reject(error);
                 }
             });
         });
@@ -48,6 +51,14 @@ export class OpenAiPlanClient {
         }
         if (!options.model) {
             throw new Error('OPENAI_MODEL ist nicht gesetzt.');
+        }
+        console.log(`[openai-client] API-Key erkannt (Länge: ${this.options.apiKey.length}).`);
+        try {
+            const apiHost = new URL(this.options.apiUrl).host;
+            console.log(`[openai-client] Verwende Modell "${this.options.model}" gegen Endpoint ${apiHost}.`);
+        }
+        catch {
+            console.warn('[openai-client] OPENAI_API_URL konnte nicht geparst werden.');
         }
     }
     async generatePlan(prompt, overrides) {
@@ -74,10 +85,27 @@ export class OpenAiPlanClient {
             response_format: overrides?.responseFormat ?? this.options.responseFormat
         });
         const url = new URL(this.options.apiUrl);
-        const responseText = await sendHttpRequest(url, payload, {
-            Authorization: `Bearer ${this.options.apiKey}`,
-            'Content-Type': 'application/json'
-        });
+        let responseText;
+        try {
+            responseText = await sendHttpRequest(url, payload, {
+                Authorization: `Bearer ${this.options.apiKey}`,
+                'Content-Type': 'application/json'
+            });
+        }
+        catch (error) {
+            const statusCode = error.statusCode;
+            const responseBody = error.responseBody;
+            if (statusCode) {
+                console.error(`[openai-client] Request fehlgeschlagen (Status ${statusCode}).`, responseBody ? `Antwort: ${responseBody.slice(0, 200)}...` : '');
+                if (statusCode === 401) {
+                    console.error('[openai-client] Upstream meldet 401 Unauthorized. Bitte überprüfen Sie OPENAI_API_KEY im Deployment.');
+                }
+            }
+            else {
+                console.error('[openai-client] Request konnte nicht abgesetzt werden:', error);
+            }
+            throw error;
+        }
         const parsed = JSON.parse(responseText);
         const content = parsed.choices?.[0]?.message?.content?.trim();
         if (!content) {

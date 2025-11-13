@@ -2,7 +2,25 @@ import { jsx as _jsx, jsxs as _jsxs, Fragment as _Fragment } from "react/jsx-run
 import { useMemo, useState } from 'react';
 import './index.css';
 import './App.css';
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:4000';
+const resolveApiBaseUrl = () => {
+    const configured = import.meta.env.VITE_API_BASE_URL?.trim();
+    if (configured) {
+        return configured.replace(/\/+$/, '');
+    }
+    if (typeof window !== 'undefined') {
+        const host = window.location.hostname;
+        const isLocalhost = host === 'localhost' || host === '127.0.0.1' || host === '[::1]';
+        if (!isLocalhost) {
+            return window.location.origin.replace(/\/+$/, '');
+        }
+    }
+    return 'http://localhost:4000';
+};
+const API_BASE_URL = resolveApiBaseUrl();
+const buildApiUrl = (path) => `${API_BASE_URL}${path.startsWith('/') ? path : `/${path}`}`;
+if (typeof window !== 'undefined') {
+    console.log('[FRONTEND] Verwende API Base URL:', API_BASE_URL);
+}
 const WEEKDAYS = [
     { key: 'Mon', label: 'Montag' },
     { key: 'Tue', label: 'Dienstag' },
@@ -223,10 +241,11 @@ function App() {
         };
         setIsSubmitting(true);
         setSubmitError(null);
-        console.log('[FRONTEND] Sending request to:', `${API_BASE_URL}/api/plan`);
+        const planUrl = buildApiUrl('/api/plan');
+        console.log('[FRONTEND] Sending request to:', planUrl);
         console.log('[FRONTEND] Payload:', payload);
         try {
-            const response = await fetch(`${API_BASE_URL}/api/plan`, {
+            const response = await fetch(planUrl, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(payload),

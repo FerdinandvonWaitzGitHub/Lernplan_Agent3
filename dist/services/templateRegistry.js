@@ -10,7 +10,8 @@ const topicDescriptionKeys = [
     'name',
     'label',
     'heading',
-    'description'
+    'description',
+    'Beschreibung'
 ];
 const legalAreaKeys = [
     'legal_area',
@@ -20,9 +21,10 @@ const legalAreaKeys = [
     'domain',
     'code',
     'tag',
-    'section'
+    'section',
+    'Rechtsgebiet'
 ];
-const subAreaKeys = ['sub_area', 'subArea', 'category', 'unit', 'chapter', 'module'];
+const subAreaKeys = ['sub_area', 'subArea', 'category', 'unit', 'chapter', 'module', 'Unterrechtsgebiet'];
 const isTemplateStructureNode = (record) => {
     const children = record.children;
     if (Array.isArray(children)) {
