@@ -4,7 +4,9 @@
   "description": "",
   "main": "dist/server.js",
   "scripts": {
-    "build": "tsc && node ./scripts/copy-embedded-templates.mjs",
+    "build": "npm run build:frontend && npm run build:backend",
+    "build:backend": "tsc && node ./scripts/copy-embedded-templates.mjs",
+    "build:frontend": "npm --prefix frontend install --include=dev && npm --prefix frontend run build",
     "dev": "node --loader ts-node/esm src/server.ts",
     "start": "node dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
