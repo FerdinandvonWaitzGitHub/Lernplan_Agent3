@@ -1,0 +1,527 @@
+[
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 0 · Allgemeines Verwaltungsrecht\n\n- Grundsätze und Grundbegriffe: VHM, Gesetzmäßigkeit, Ermessen, Beurteilungsspielraum, unbestimmter Rechtsbegriff"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "BGB AT",
+    "Beschreibung": "Session 1 · BGB AT\n\n- Rechtssubjekte (natürliche u. juristische Personen) und Rechtsobjekte (Rechtsobjekt, Vermögen, Unternehmen, Sache, Bestandteil, Zubehör, Nutzungen), Willenserklärung"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 1 · Allgemeines Verwaltungsrecht\n\n- Grundsätze und Grundbegriffe: Organisation der Verwaltung (beachte auch die Regelungen im GG), Unterscheidung öffentliches Recht und Privatrecht, subjektives öffentliches Recht"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "BGB AT",
+    "Beschreibung": "Session 2 · BGB AT\n\n- Willensmängel (§§ 116 ff. BGB), Nichtigkeit des Rechtsgeschäfts, Geschäftsfähigkeit (104 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 2 · Allgemeines Verwaltungsrecht\n\n- Handlungsformen der Verwaltung: Verwaltungsakt I"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "BGB AT",
+    "Beschreibung": "Session 3 · BGB AT\n\n- Vertrag, Annahme, Auslegung des Rechtsgeschäfts (§§ 145 ff., 133, 157 BGB)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 3 · Allgemeines Verwaltungsrecht\n\n- Handlungsformen der Verwaltung: Verwaltungsakt II"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "BGB AT",
+    "Beschreibung": "Session 4 · BGB AT\n\n- Anfechtbarkeit (§§ 119 ff., 142 BGB), Form (§§ 125 ff. BGB), Inhalt, Zustimmung, Bedingung und Befristung (§§ 158 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 4 · Allgemeines Verwaltungsrecht\n\n- Handlungsformen der Verwaltung: Rechtsverordnung, Satzungen, öffentlich-rechtlicher Vertrag und Realakte, Pläne"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "BGB AT",
+    "Beschreibung": "Session 5 · BGB AT\n\n- Vertretungsrecht (§§ 164 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 5 · Allgemeines Verwaltungsrecht\n\n- Verwaltungsverfahren, privatrechtliches Handeln, Recht der öffentlichen Sachen und Verwaltungsvollstreckung"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "BGB AT",
+    "Beschreibung": "Session 6 · BGB AT\n\n- Allgemeine Geschäftsbedingungen (§§ 305 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 6 · Allgemeines Verwaltungsrecht\n\n- verwaltungsrechtliche Klagen: Allgemeine Zulässigkeitsvoraussetzungen, Widerspruch, Anfechtungsklage"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht AT",
+    "Beschreibung": "Session 7 · Schuldrecht AT\n\n- Begriff/Abgrenzung, Entstehung von Schuldverhältnissen, vorvertragliche Schuldverhältnisse"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 7 · Allgemeines Verwaltungsrecht\n\n- Verpflichtungsklage, Allgemeine Leistungsklage, Feststellungsklage, Fortsetzungsfeststellungsklage"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht AT",
+    "Beschreibung": "Session 8 · Schuldrecht AT\n\n- Inhalt der Schuldverhältnisse (Bestimmung, Treu und Glauben, Gattungsschuld, Geld-/Zinsschuld, Leistungsverweigerungsrechte (§§ 273 ff., 320 ff. BGB))"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 8 · Allgemeines Verwaltungsrecht\n\n- vorläufiger Rechtsschutz, Rechtsmittel und Wiederaufnahme"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht AT",
+    "Beschreibung": "Session 9 · Schuldrecht AT\n\n- Erlöschen von Schuldverhältnissen (u.a. Erfüllung, Aufrechnung, sonstige Gründe); Störungen von Schuldverhältnissen I (Grundlagen, Unmöglichkeit)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 9 · Allgemeines Verwaltungsrecht\n\n- Staatshaftung: Amtshaftungsanspruch, Entschädigungsansprüche für Eigentumseingriffe"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht AT",
+    "Beschreibung": "Session 10 · Schuldrecht AT\n\n- Störungen von Schuldverhältnissen II (Verzug, Schlechtleistung, Schutzpflichtverletzungen), Gläubigerverzug, Störung der Geschäftsgrundlage"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 10 · Allgemeines Verwaltungsrecht\n\n- Staatshaftung: Aufopferung, FBA, öff-rechtlicher Erstattungsanspruch, SE aus öff-rechtlichen Schuldverhältnissen, EG-Staatshaftung"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht AT",
+    "Beschreibung": "Session 11 · Schuldrecht AT\n\n- Rücktritt (§§ 323 ff. BGB), Rückgewährschuldverhältnis (§§"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 346 · ff. BGB), Verbraucherschutzrecht (§§ 312 ff., 355 ff. BGB)\n\n- (kein Inhalt angegeben)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht AT",
+    "Beschreibung": "Session 346 · Strafrecht AT\n\n- Grundsätze und Strafrechtslehren, Prinzipien des Strafrechts, Vorsatzdelikte (insbesondere Handlungslehren)"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht AT",
+    "Beschreibung": "Session 12 · Schuldrecht AT\n\n- Beteiligung Dritter am Schuldverhältnis (u.a. Vertrag mit Schutzwirkung zugunsten Dritter, Vertrag zugunsten Dritter, Drittschadensliquidation), Mehrheit von Gläubigern und Schuldnern"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht AT",
+    "Beschreibung": "Session 12 · Strafrecht AT\n\n- Vorsatzdelikte: objektiver Tatbestand (Handlung, Erfolg, Kausalität, objektive Zurechnung) und subjektiver Tb (Vorsatz, Abgrenzung zwischen Eventualvorsatz und Fahrlässigkeit, zusätzliche Erfordernisse spezieller Delikte (z.B. Zueignungsabsicht)"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht AT",
+    "Beschreibung": "Session 13 · Schuldrecht AT\n\n- Schadensrecht (§§ 249 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht AT",
+    "Beschreibung": "Session 13 · Strafrecht AT\n\n- Rechtfertigung und Schuld, Irrtümer"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 14 · Vertragliche Schuldverhältnisse\n\n- Kauf und Schenkung (§§ 433 ff., 516 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht AT",
+    "Beschreibung": "Session 14 · Strafrecht AT\n\n- Täterschaft und Teilnahme"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 15 · Vertragliche Schuldverhältnisse\n\n- Mietvertrag, Leasing, Leihe (§§ 535 ff., 598 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht AT",
+    "Beschreibung": "Session 15 · Strafrecht AT\n\n- Versuch und Rücktritt"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 16 · Vertragliche Schuldverhältnisse\n\n- Darlehen, Bürgschaft, Vergleich, Schuldversprechen/ anerkenntnis, Maklervertrag, Verwahrung (§§ 488 ff., 765 ff.,"
+  },
+  {
+    "Rechtsgebiet": "Organisation & Hinweise",
+    "Unterrechtsgebiet": "Planung & Hinweise",
+    "Beschreibung": "Session 780 · f., 652 ff., 688 ff. BGB)\n\n- (kein Inhalt angegeben)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht AT",
+    "Beschreibung": "Session 780 · Strafrecht AT\n\n- Fahrlässigkeitsdelikte, (unechte) Unterlassungsdelikte, Konkurrenzen"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 17 · Vertragliche Schuldverhältnisse\n\n- Dienstvertrag, Werkvertrag, Auftrag, Geschäftsbesorgungsvertrag (§§ 611 ff., 631 ff., 662 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Organisation & Hinweise",
+    "Unterrechtsgebiet": "Zeitplanung",
+    "Beschreibung": "Session 18 · Pause"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 0 · Grundrechte\n\n- Verfassungsprozessrecht, insbesondere Verfassungsbeschwerde (Art. 93 GG, BVerfGG); Funktionen und Arten der Grundrechte, Versammlungsfreiheit (Art. 8 GG)"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 19 · Sachenrecht\n\n- Grundlagen des Sachenrechts (u.a. Sachbegriff i.S.d. §§ 90 ff. BGB, Funktion des Sachenrechts), Besitz und Besitzschutz (§§"
+  },
+  {
+    "Rechtsgebiet": "Organisation & Hinweise",
+    "Unterrechtsgebiet": "Planung & Hinweise",
+    "Beschreibung": "Session 854 · ff. BGB)\n\n- (kein Inhalt angegeben)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 854 · Grundrechte\n\n- Recht auf Leben und körperliche Unversehrtheit (Art. 2 Abs. 2 S."
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 1 · GG) und Grundrechte als Schutzrechte,\n\n- Wesensgehaltsgarantie, Kommunikationsgrundrechte sowie Kunst- und Wissenschaftsfreiheit (Art. 5) Grundrechtskonkurrenzen, Drittwirkung der Grundrechte"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 20 · Sachenrecht\n\n- Eigentum, rechtsgeschäftlicher Erwerb beweglicher Sachen vom Berechtigten (§§ 929 ff. BGB)/vom Nichtberechtigten (§§"
+  },
+  {
+    "Rechtsgebiet": "Organisation & Hinweise",
+    "Unterrechtsgebiet": "Planung & Hinweise",
+    "Beschreibung": "Session 932 · ff. BGB), gesetzlicher Eigentumserwerb (§§ 946 ff. BGB)\n\n- (kein Inhalt angegeben)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 932 · Grundrechte\n\n- Religions- und Weltanschauungsfreiheit (Art. 4 GG), Berufsfreiheit (Art. 12 GG)"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 21 · Sachenrecht\n\n- Vindikationsanspruch (§§ 985 f. BGB); Eigentümer – Besitzer – Verhältnis (§§ 987 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 21 · Grundrechte\n\n- Eigentum und Erbrecht (Art. 14 GG), Grundrechte als Einrichtungsgarantien, Ehe, Familie und Schule (Art. 6, 7 GG), Freiheit der Person (Art. 2 Abs. 2 S. 2, 104, 11 GG)"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 22 · Sachenrecht\n\n- Abwehransprüche und Duldungspflichten (§§ 1004, 906 ff. BGB)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 22 · Grundrechte\n\n- Allgemeine Handlungsfreiheit (Art. 2 Abs. 1 GG), Menschenwürde (Art. 1 GG), Allgemeines Persönlichkeitsrecht (Art. 2 Abs. 1, 1 Abs. 1 GG), Schutz der Privatsphäre (Art. 10,"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 13 · GG)\n\n- (kein Inhalt angegeben)"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 23 · Sachenrecht\n\n- Pfandrechte an beweglichen Sachen, Sicherungsübereignung"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 23 · Grundrechte\n\n- Gleichheitsrechte (Art. 3 GG), Vereinigungs- und Koalitionsfreiheit (Art. 9 GG), Justizielle Gewährleistungen (Art."
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Grundrechte",
+    "Beschreibung": "Session 19 · Abs. 4, 101, 103 GG)\n\n- (kein Inhalt angegeben)"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 24 · Sachenrecht\n\n- Eigentumsvorbehalt, Anwartschaftsrecht"
+  },
+  {
+    "Rechtsgebiet": "Organisation & Hinweise",
+    "Unterrechtsgebiet": "Zeitplanung",
+    "Beschreibung": "Session 25 · Pause"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 0 · Verwaltungsrecht BT\n\n- POR: Gesetzgebungs- und Ausführungskompetenzen, Generalklausel (Schutzgüter, Gefahrbegriffe)"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 26 · Sachenrecht\n\n- Immobiliarsachenrecht: Verfügungen über Immobiliarsachenrechte/Grundeigentum, Grundbuchrecht, Vormerkung"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 26 · Verwaltungsrecht BT\n\n- POR: Polizeirechtliche Verantwortlichkeit, Ermessen und Ermessensgrenzen, Unmittelbare Ausführung,"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 27 · Sachenrecht\n\n- Grundschuld, Hypothek, sonstige beschränkt dingliche Rechte"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 27 · Verwaltungsvollstreckung\n\n- (kein Inhalt angegeben)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 27 · Verwaltungsrecht BT\n\n- POR: Realakte, Haftungsfragen, Standardmaßnahmen, Versammlungsrecht"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 2 Vermögensdelikte",
+    "Beschreibung": "Session 28 · Bereicherungsrecht\n\n- Grundlagen des Bereicherungsrechts, Leistungskondiktion, Nichtleistungskondiktion"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 28 · Verwaltungsrecht BT\n\n- Baurecht: Bauleitplanung, Grundsätze"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 2 Vermögensdelikte",
+    "Beschreibung": "Session 29 · Bereicherungsrecht\n\n- Inhalt und Umfang des Bereicherungsanspruchs (§ 818), Besonderheiten bei Mehrpersonenverhältnissen"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 29 · Verwaltungsrecht BT\n\n- Baurecht: Zulässigkeit von Vorhaben: §§ 29, 30 BauGB (Bauplanungsrecht) inkl. BauNVO; Baugenehmigung, §§ 31, 33 BauGB"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Handels- Und Gesellschaftsrecht",
+    "Beschreibung": "Session 30 · Handels- und Gesellschaftsrecht\n\n- Kaufmannsbegriff, Publizität des Handelsregisters, Handelsrechtliche Vertretung (Prokura/Handlungsvollmacht)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 30 · Verwaltungsrecht BT\n\n- Baurecht: Innenbereich (§ 34 BauGB), Drittschutz"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Handels- Und Gesellschaftsrecht",
+    "Beschreibung": "Session 31 · Handels- und Gesellschaftsrecht\n\n- Allgemeine Vorschriften zu Handelsgeschäften, Handelskauf"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 31 · Verwaltungsrecht BT\n\n- Baurecht: Außenbereich (§ 35 BauGB), Bauordnungsrecht"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Handels- Und Gesellschaftsrecht",
+    "Beschreibung": "Session 32 · Handels- und Gesellschaftsrecht\n\n- Entstehung und Außenverhältnis, Innenverhältnis: Gesellschaft bürgerlichen Rechts (GbR), offene Handelsgesellschaft (OHG)"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 32 · Verwaltungsrecht BT\n\n- Umweltrecht: Grundsätze, Anlagen, TA Lärm, TA Luft"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Handels- Und Gesellschaftsrecht",
+    "Beschreibung": "Session 33 · Handels- und Gesellschaftsrecht\n\n- Änderung im Gesellschafterbestand, Beendigung der Gesellschaft: GbR und OHG"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Verwaltungsrecht AT",
+    "Beschreibung": "Session 33 · Verwaltungsrecht BT\n\n- Wirtschaftsverwaltungsrecht: Gewerbeordnung, GaststättenG"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Handels- Und Gesellschaftsrecht",
+    "Beschreibung": "Session 34 · Handels- und Gesellschaftsrecht\n\n- Kommanditgesellschaft (KG), Gesellschaft mit beschränkter Haftung (GmbH)"
+  },
+  {
+    "Rechtsgebiet": "Organisation & Hinweise",
+    "Unterrechtsgebiet": "Zeitplanung",
+    "Beschreibung": "Session 35 · Pause"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 0 · Strafrecht BT\n\n- Körperverletzungsdelikte (inklusive der Qualifikationstatbestände), Hausfriedensbruch, Widerstand gegen Vollstreckungsbeamte"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 2 Vermögensdelikte",
+    "Beschreibung": "Session 36 · Delikts- und Gefährdungshaftung\n\n- Der allgemeine Deliktshaftungstatbestand des § 823 BGB"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 36 · Strafrecht BT\n\n- Totschlag, Mord, Aussetzung, Freiheitsberaubung, Nötigung"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 2 Vermögensdelikte",
+    "Beschreibung": "Session 37 · Delikts- und Gefährdungshaftung\n\n- sonstige Haftungstatbestände (§§ 823 Abs. 2 – 838 BGB)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 37 · Strafrecht BT\n\n- Urkundsdelikte, Aussagedelikte, Schutz des geistigen Persönlichkeitsbereichs"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 2 Vermögensdelikte",
+    "Beschreibung": "Session 38 · Delikts- und Gefährdungshaftung\n\n- Inhalt und Umfang der Haftung (§§ 840 – 853 BGB)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 38 · Strafrecht BT\n\n- Straßenverkehrsdelikte, Beleidigungsdelikte, Brandstiftungsdelikte"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Schuldrecht Bt 2 Vermögensdelikte",
+    "Beschreibung": "Session 39 · Geschäftsführung ohne Auftrag (GoA)\n\n- Anwendbarkeit der §§ 677 ff. BGB; Die berechtigte GoA: Tatbestand und Rechtsfolgen, Ansprüche des Geschäftsherrn, Ansprüche des Geschäftsführers; Die unberechtigte GoA; Eigengeschäftsführung: Irrtümliche Eigengeschäftsführung, angemaßte Geschäftsführung"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 39 · Strafrecht BT\n\n- Vermögensdelikte: Diebstahl (mit Qualifikationen und Regelbeispielen), Unterschlagung, Sachbeschädigung"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Arbeitsrecht",
+    "Beschreibung": "Session 40 · Arbeitsrecht\n\n- Parteien, Begründung, Inhalt, Störungen, Beendigung des Arbeitsverhältnisses; EGBGB: Verweisung, Recht der natürlichen Personen und der Rechtsgeschäfte, Schuldrecht,"
+  },
+  {
+    "Rechtsgebiet": "Zivilrecht",
+    "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
+    "Beschreibung": "Session 40 · Sachenrecht\n\n- (kein Inhalt angegeben)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 40 · Strafrecht BT\n\n- Vermögensdelikte: Raub, räuberischer Diebstahl, Erpressung unter Berücksichtigung der Qualifikationstatbestände"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Familien- und Erbrecht",
+    "Beschreibung": "Session 41 · Familien- und Erbrecht\n\n- Grundbegriffe; Das Verlöbnis; Die Ehe (insb. Ehefähigkeit, Eheschließung, Eheverbote, Ehewirkungen, eheliches Güterrecht, Scheidungsrecht)"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht Bt 1 Nichtvermögensdelikte",
+    "Beschreibung": "Session 41 · Strafrecht BT\n\n- Vermögensdelikte: Betrug, Untreue, Versicherungsbetrug, Begünstigung, Hehlerei"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Familien- und Erbrecht",
+    "Beschreibung": "Session 42 · Familien- und Erbrecht\n\n- Verwandtschaftsrecht (Abstammung, Rechtstellung des Kindes, elterliche Sorge, Unterhaltspflichten); Vormundschaft, rechtliche Betreuung und Pflegschaft"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Staatsorganisationsrecht",
+    "Beschreibung": "Session 42 · Staatsorganisationsrecht\n\n- Prinzipien des GG (Art. 20 GG) und Staatszielbestimmungen, Verfassungsänderung"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Familien- und Erbrecht",
+    "Beschreibung": "Session 43 · Familien- und Erbrecht\n\n- Grundbegriffe; Gesetzliche gewillkürte Erbfolge (Testament); Pflichtteilsrecht"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Staatsorganisationsrecht",
+    "Beschreibung": "Session 43 · Staatsorganisationsrecht\n\n- Staatsorgane: Bundestag, Bundesrat, Bundesregierung, Bundespräsident, Parteien"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "Familien- und Erbrecht",
+    "Beschreibung": "Session 44 · Familien- und Erbrecht\n\n- Annahme und Ausschlagung der Erbschaft; Erbschaftsbesitz; Miterbengemeinschaft; Erbenhaftung, Nachlassverbindlichkeiten; Erbschein"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Staatsorganisationsrecht",
+    "Beschreibung": "Session 44 · Staatsorganisationsrecht\n\n- Kompetenzverteilung, Verhältnis Bund-Länder-Kommunen, Gesetzgebungsverfahren, Bundes- und Länderverwaltung"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "ZPO",
+    "Beschreibung": "Session 45 · Zivilprozessrecht\n\n- Grundlagen des Zivilprozessrechts (insb. Verfassung, Organisation und Zuständigkeit der Gerichte); Die Verfahrensgrundsätze/Prozessmaximen; Prozessvoraussetzungen"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Europarecht",
+    "Beschreibung": "Session 45 · Europarecht\n\n- Geschichte: von der EGKS und der EWG zur EU, Struktur der EU, Grundsätze, Änderungen durch den Vertrag von Lissabon"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "ZPO",
+    "Beschreibung": "Session 46 · Zivilprozessrecht\n\n- Klagearten; Verhalten der Partei im Prozess, Möglichkeiten für die Prozessführung der Partei"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Europarecht",
+    "Beschreibung": "Session 46 · Europarecht\n\n- Institutionelles System und Kompetenzen"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "ZPO",
+    "Beschreibung": "Session 47 · Zivilprozessrecht\n\n- Tatsachenvortrag und Beweisverfahren, einzelne Beweismittel; Die gerichtliche Entscheidung"
+  },
+  {
+    "Rechtsgebiet": "Öffentliches Recht",
+    "Unterrechtsgebiet": "Europarecht",
+    "Beschreibung": "Session 47 · Europarecht\n\n- Grundfreiheiten (insbesondere Warenverkehrsfreiheit) und Rechtsschutz vor dem BVerfG und dem EuG/EuGH"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche Nebengebiete",
+    "Unterrechtsgebiet": "ZPO",
+    "Beschreibung": "Session 48 · Zivilprozessrecht\n\n- Vollstreckungsvoraussetzungen, Arten der Zwangsvollstreckung, Rechtsbehelfe"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "StPO",
+    "Beschreibung": "Session 49 · Strafprozessrecht\n\n- Grundlagen des Strafprozessrechts (insb. Verfassung, Organisation und Zuständigkeit der Gerichte); Die Verfahrensgrundsätze/Prozessmaximen; Prozessvoraussetzungen"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "StPO",
+    "Beschreibung": "Session 50 · Strafprozessrecht\n\n- Die Verfahrensbeteiligten; Gang des Verfahrens [Ermittlungsverfahren, Zwischenverfahren, Hauptverfahren (hier insb. Beweismittel und Beweisverbote), Urteil]"
+  },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "StPO",
+    "Beschreibung": "Session 51 · Strafprozessrecht\n\n- Eingriffe und Zwangsmaßnahmen; Rechtsmittel (Berufung, Revision, Beschwerde, Wiederaufnahme des Verfahrens); Besondere Verfahrensarten (Privatklage, Nebenklage, Adhäsionsverfahren, Strafbefehlsverfahren, beschleunigtes"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree /F \"c:\\Users\\fvwai\\lernplan_agent3\\src\")",
+      "Bash(dir:*)",
+      "Bash(test:*)",
+      "Bash(npm start)",
+      "Bash(taskkill:*)",
+      "Bash(pkill:*)",
+      "Bash(netstat:*)",
+      "Bash(kill:*)",
+      "Bash(curl:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill:*)",
+      "Bash(cmd.exe /c \"taskkill /F /IM node.exe\")",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout /t 3)",
+      "Bash(findstr:*)",
+      "Bash(cmd.exe /c \"taskkill /F /PID 39912\")",
+      "Bash(tree:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

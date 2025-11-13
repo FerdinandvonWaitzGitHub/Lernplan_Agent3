@@ -1,0 +1,30 @@
+:root {
+  font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+  background-color: #f4f6fb;
+  color: #1f2a44;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+code {
+  font-family: 'Fira Code', 'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  background: #eef2fb;
+  padding: 0.2rem 0.4rem;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
