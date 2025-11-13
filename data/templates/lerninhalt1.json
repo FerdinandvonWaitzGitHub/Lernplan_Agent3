@@ -2,841 +2,603 @@
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "BGB AT",
-    "Beschreibung": [
-      "Vertragsschluss, Willenserklärung, Handlungs-, Erklärungs- und Geschäftswille, Gefälligkeitsverhältnis, fehlendes Erklärungsbewusstsein, Auslegung (§§ 133, 157 BGB), objektiver Empfängerhorizont, falsa demonstratio, Dissens (§§ 154, 155 BGB), Abgabe und Zugang von Willenserklärungen"
-    ]
+    "Beschreibung": ["Vertragsschluss, Willenserklärung, Handlungs-, Erklärungs- und Geschäftswille, Gefälligkeitsverhältnis, fehlendes Erklärungsbewusstsein, Auslegung (§§ 133, 157 BGB), objektiver Empfängerhorizont, falsa demonstratio, Dissens (§§ 154, 155 BGB), Abgabe und Zugang von Willenserklärungen" ]
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "BGB AT",
-    "Beschreibung": [
-      "Geschäftsunfähigkeit und beschränkte Geschäftsfähigkeit (§§ 104 ff. BGB), Voraussetzungen der Stellvertretung (§§ 164 ff. BGB), Abgrenzung Stellvertretung zum Boten, „Geschäft für den, den es angeht“, Innen- und Außenvollmacht, Missbrauch der Vertretungsmacht"
-    ]
+    "Beschreibung": "Geschäftsunfähigkeit und beschränkte Geschäftsfähigkeit (§§ 104 ff. BGB), Voraussetzungen der Stellvertretung (§§ 164 ff. BGB), Abgrenzung Stellvertretung zum Boten, „Geschäft für den, den es angeht“, Innen- und Außenvollmacht, Missbrauch der Vertretungsmacht"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "BGB AT",
-    "Beschreibung": [
-      "Anscheins- und Duldungsvollmacht, Vertreter ohne Vertretungsmacht (§§ 177, 179 BGB), Insichgeschäft (§ 181 BGB), Schein-, Vorbehalt- und Scherzgeschäft (§§ 116-118 BGB), Voraussetzungen der Anfechtung, Abgrenzung von Inhalts- und Erklärungsirrtum (§ 119 I BGB), Eigenschaftsirrtum (§ 119 II BGB), Anfechtung wegen Täuschung oder Drohung (§ 123 BGB), Motiv- und Kalkulationsirrtum, ex-tunc-Wirkung der Anfechtung (§ 142 BGB), Schadensersatz nach § 122 BGB"
-    ]
+    "Beschreibung":"Anscheins- und Duldungsvollmacht, Vertreter ohne Vertretungsmacht (§§ 177, 179 BGB), Insichgeschäft (§ 181 BGB), Schein-, Vorbehalt- und Scherzgeschäft (§§ 116-118 BGB), Voraussetzungen der Anfechtung, Abgrenzung von Inhalts- und Erklärungsirrtum (§ 119 I BGB), Eigenschaftsirrtum (§ 119 II BGB), Anfechtung wegen Täuschung oder Drohung (§ 123 BGB), Motiv- und Kalkulationsirrtum, ex-tunc-Wirkung der Anfechtung (§ 142 BGB), Schadensersatz nach § 122 BGB"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "BGB AT",
-    "Beschreibung": [
-      "Verstoß gegen gesetzliches Verbot (§ 134 BGB) und Sittenwidrigkeit (§ 138 BGB), Formvorschriften im BGB, Rechtsfolgen von Formverstößen (§§ 125 ff. BGB), Allgemeine Geschäftsbedingungen (§§ 305 ff. BGB), Prüfung von AGB in der Klausur, sich widersprechende AGBs, Vertragsschluss bei Online-Auktionen, im Überblick: Verjährung (§§ 194 ff. BGB)"
-    ]
+    "Beschreibung":"Verstoß gegen gesetzliches Verbot (§ 134 BGB) und Sittenwidrigkeit (§ 138 BGB), Formvorschriften im BGB, Rechtsfolgen von Formverstößen (§§ 125 ff. BGB), Allgemeine Geschäftsbedingungen (§§ 305 ff. BGB), Prüfung von AGB in der Klausur, sich widersprechende AGBs, Vertragsschluss bei Online-Auktionen, im Überblick: Verjährung (§§ 194 ff. BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht AT",
-    "Beschreibung": [
-      "Überblick über das Leistungsstörungsrecht, Abgrenzung von Schadensersatz statt und Schadensersatz neben der Leistung, Vertrauensschaden, Schadensersatz statt der ganzen Leistung (§ 281 I 2, 3 BGB), Voraussetzungen eines Anspruchs aus § 280 I BGB"
-    ]
+    "Beschreibung":"Überblick über das Leistungsstörungsrecht, Abgrenzung von Schadensersatz statt und Schadensersatz neben der Leistung, Vertrauensschaden, Schadensersatz statt der ganzen Leistung (§ 281 I 2, 3 BGB), Voraussetzungen eines Anspruchs aus § 280 I BGB"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht AT",
-    "Beschreibung": [
-      "Voraussetzungen der culpa in contrahendo (§§ 311 II, 241 II, 280 I BGB), Verhältnis der c.i.c. zu Anfechtung und Gewährleistung, Sonderfälle: Abbruch von Vertragsverhandlungen, Vertretereigenhaftung (§ 311 III BGB), Verzug (§§ 280 I, II, 286 BGB)"
-    ]
+    "Beschreibung":"Voraussetzungen der culpa in contrahendo (§§ 311 II, 241 II, 280 I BGB), Verhältnis der c.i.c. zu Anfechtung und Gewährleistung, Sonderfälle: Abbruch von Vertragsverhandlungen, Vertretereigenhaftung (§ 311 III BGB), Verzug (§§ 280 I, II, 286 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht AT",
-    "Beschreibung": [
-      "Arten von Unmöglichkeit (anfänglich/nachträglich, objektiv/subjektiv), Gattungsschuld und Konkretisierung, Bring-, Hol- und Schickschuld, wirtschaftliche Unmöglichkeit (§ 275 II BGB), persönliches Leistungshindernis (§ 275 III BGB), Schadensersatz bei nachträglicher Unmöglichkeit (§§ 280 I, III, 283 BGB), Schadensersatz bei anfänglicher Unmöglichkeit (§ 311a II BGB), Schicksal der Gegenleistung (§ 326 BGB)"
-    ]
+    "Beschreibung":"Arten von Unmöglichkeit (anfänglich/nachträglich, objektiv/subjektiv), Gattungsschuld und Konkretisierung, Bring-, Hol- und Schickschuld, wirtschaftliche Unmöglichkeit (§ 275 II BGB), persönliches Leistungshindernis (§ 275 III BGB), Schadensersatz bei nachträglicher Unmöglichkeit (§§ 280 I, III, 283 BGB), Schadensersatz bei anfänglicher Unmöglichkeit (§ 311a II BGB), Schicksal der Gegenleistung (§ 326 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht AT",
-    "Beschreibung": [
-      "Schadensersatz nach §§ 280 I, III, 281 BGB (Schlechtleistung und verzögerte Leistung), Sonderprobleme: Haftung für Nutzungsausfallschäden, Bezugspunkt für das Vertretenmüssen bei §§ 280 I, III, 281 BGB, Teilleistungen und Teilschlechtleistungen im allgemeinen Schuldrecht"
-    ]
+    "Beschreibung":"Schadensersatz nach §§ 280 I, III, 281 BGB (Schlechtleistung und verzögerte Leistung), Sonderprobleme: Haftung für Nutzungsausfallschäden, Bezugspunkt für das Vertretenmüssen bei §§ 280 I, III, 281 BGB, Teilleistungen und Teilschlechtleistungen im allgemeinen Schuldrecht"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht AT",
-    "Beschreibung": [
-      "Schadensersatz statt der Leistung wegen Nebenpflichtverletzungen (§§ 280 I, III, 282, 241 II BGB), Aufwendungsersatz (§ 284 BGB), Rücktritt (§§ 346 ff. BGB), Sonderprobleme: Entbehrlichkeit der Frist bei § 323 II und § 475d BGB, Erfüllung nach Fristablauf"
-    ]
+    "Beschreibung":"Schadensersatz statt der Leistung wegen Nebenpflichtverletzungen (§§ 280 I, III, 282, 241 II BGB), Aufwendungsersatz (§ 284 BGB), Rücktritt (§§ 346 ff. BGB), Sonderprobleme: Entbehrlichkeit der Frist bei § 323 II und § 475d BGB, Erfüllung nach Fristablauf"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht AT",
-    "Beschreibung": [
-      "Gläubigerverzug (§§ 293 ff. BGB), Erfüllung und Erfüllungssurrogate (§§ 362 ff. BGB), Abgrenzung Annahme an Erfüllungs Statt und erfüllungshalber (§ 364 I, II, BGB), Aufrechnung (§§ 387 ff. BGB), Abtretung von Forderungen (§ 398 BGB), Schuldnerschutz nach §§ 404 ff. BGB"
-    ]
+    "Beschreibung":"Gläubigerverzug (§§ 293 ff. BGB), Erfüllung und Erfüllungssurrogate (§§ 362 ff. BGB), Abgrenzung Annahme an Erfüllungs Statt und erfüllungshalber (§ 364 I, II, BGB), Aufrechnung (§§ 387 ff. BGB), Abtretung von Forderungen (§ 398 BGB), Schuldnerschutz nach §§ 404 ff. BGB"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht AT",
-    "Beschreibung": [
-      "Dritte in Schuldverhältnissen: Abgrenzung Erfüllungsgehilfe (§ 278 BGB) zu Verrichtungsgehilfe (§ 831 BGB), Exkulpation des Geschäftsherrn nach § 831 I 2 BGB, Vertrag zugunsten Dritter (§ 328 ff. BGB), Vertrag mit Schutzwirkung zugunsten Dritter, Drittschadensliquidation"
-    ]
+    "Beschreibung":"Dritte in Schuldverhältnissen: Abgrenzung Erfüllungsgehilfe (§ 278 BGB) zu Verrichtungsgehilfe (§ 831 BGB), Exkulpation des Geschäftsherrn nach § 831 I 2 BGB, Vertrag zugunsten Dritter (§ 328 ff. BGB), Vertrag mit Schutzwirkung zugunsten Dritter, Drittschadensliquidation"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht AT",
-    "Beschreibung": [
-      "Gesamtschuldner (§§ 421 ff. BGB), gestörte Gesamtschuld, Störung der Geschäftsgrundlage (§ 313 BGB), Kündigung von Dauerschuldverhältnissen (§ 314 BGB), Zurückbehaltungsrechte (§§ 320, 273 BGB), Widerruf nach Verbraucherschutzvorschriften (§§ 312b, 312c, 312g, 495, 355 BGB)"
-    ]
+    "Beschreibung":"Gesamtschuldner (§§ 421 ff. BGB), gestörte Gesamtschuld, Störung der Geschäftsgrundlage (§ 313 BGB), Kündigung von Dauerschuldverhältnissen (§ 314 BGB), Zurückbehaltungsrechte (§§ 320, 273 BGB), Widerruf nach Verbraucherschutzvorschriften (§§ 312b, 312c, 312g, 495, 355 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Kaufvertrag (§ 433 BGB): kaufrechtliche Gewährleistung (§§ 434 ff. BGB), Begriff des Sachmangels (§ 434 BGB) und des Rechtsmangels (§ 435 BGB), Verbrauchsgüterkauf (§§ 474 ff. BGB), Beweislastumkehr nach § 477 BGB, Nacherfüllung (§§ 437, 439 BGB, Sonderprobleme: Selbstvornahme der Nacherfüllung durch den Käufer, Kosten von Ein- und Ausbau der Kaufsache nach § 439 III BGB)"
-    ]
+    "Beschreibung":"Kaufvertrag (§ 433 BGB): kaufrechtliche Gewährleistung (§§ 434 ff. BGB), Begriff des Sachmangels (§ 434 BGB) und des Rechtsmangels (§ 435 BGB), Verbrauchsgüterkauf (§§ 474 ff. BGB), Beweislastumkehr nach § 477 BGB, Nacherfüllung (§§ 437, 439 BGB, Sonderprobleme: Selbstvornahme der Nacherfüllung durch den Käufer, Kosten von Ein- und Ausbau der Kaufsache nach § 439 III BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Gewährleistung beim Kauf: Rücktritt, Minderung (§ 437 Nr. 2 BGB), Schadens- und Aufwendungsersatz (§ 437 Nr. 3 BGB), Gefahrübergang beim Kauf (§§ 446, 447 BGB), Kaufvertrag über Waren mit digitalen Elementen (§§ 475b ff. BGB), Vertrag über digitale Produkte (§§ 327 ff. BGB), Verkäuferregress (§§ 445a ff., 478, 327t f. BGB), Vorkaufsrecht (§ 463 BGB)"
-    ]
+    "Beschreibung":"Gewährleistung beim Kauf: Rücktritt, Minderung (§ 437 Nr. 2 BGB), Schadens- und Aufwendungsersatz (§ 437 Nr. 3 BGB), Gefahrübergang beim Kauf (§§ 446, 447 BGB), Kaufvertrag über Waren mit digitalen Elementen (§§ 475b ff. BGB), Vertrag über digitale Produkte (§§ 327 ff. BGB), Verkäuferregress (§§ 445a ff., 478, 327t f. BGB), Vorkaufsrecht (§ 463 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Darlehen und andere Finanzierungshilfen (§ 488 ff. BGB), Sondervorschriften für den Verbraucher-Darlehensvertrag (§§ 491 ff.), verbundenes Geschäft (§§ 358, 359 BGB), Einwendungsdurchgriff, Schenkung (§§ 516 ff. BGB)"
-    ]
+    "Beschreibung":"Darlehen und andere Finanzierungshilfen (§ 488 ff. BGB), Sondervorschriften für den Verbraucher-Darlehensvertrag (§§ 491 ff.), verbundenes Geschäft (§§ 358, 359 BGB), Einwendungsdurchgriff, Schenkung (§§ 516 ff. BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Mietvertrag (§ 535 BGB), Rechte und Pflichten des Mieters, Gewährleistung für die Mietsache (§§ 536 ff. BGB), Vermieterpfandrecht (§§ 562 ff. BGB), Kauf bricht nicht Miete (§ 566 BGB), Kündigung des Mietverhältnisses, Eigenbedarf nach § 573 II Nr. 2 BGB, mietähnliche Verträge: Pacht (§ 581 BGB), Leasing, Franchising, Besonderheiten des Finanzierungsleasing, insbesondere Auswirkungen von Mängeln der Kaufsache auf den Leasingvertrag durch Wegfall der Geschäftsgrundlage (§ 313 BGB)"
-    ]
+    "Beschreibung":"Mietvertrag (§ 535 BGB), Rechte und Pflichten des Mieters, Gewährleistung für die Mietsache (§§ 536 ff. BGB), Vermieterpfandrecht (§§ 562 ff. BGB), Kauf bricht nicht Miete (§ 566 BGB), Kündigung des Mietverhältnisses, Eigenbedarf nach § 573 II Nr. 2 BGB, mietähnliche Verträge: Pacht (§ 581 BGB), Leasing, Franchising, Besonderheiten des Finanzierungsleasing, insbesondere Auswirkungen von Mängeln der Kaufsache auf den Leasingvertrag durch Wegfall der Geschäftsgrundlage (§ 313 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Dienstvertrag (§ 611 BGB), Abgrenzung zum Werkvertrag (Zeit- und Erfolgsbestimmtheit), Arbeitsvertrag (§ 611a BGB), Aufbauschema Kündigungsschutzklage, AGG, Behandlungsvertrag (§§ 630a ff. BGB)"
-    ]
+    "Beschreibung":"Dienstvertrag (§ 611 BGB), Abgrenzung zum Werkvertrag (Zeit- und Erfolgsbestimmtheit), Arbeitsvertrag (§ 611a BGB), Aufbauschema Kündigungsschutzklage, AGG, Behandlungsvertrag (§§ 630a ff. BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Typen des Werkvertrags (§ 631 BGB), Werklieferungsvertrag (§ 650 I BGB), Verbrauchervertrag über die Herstellung digitaler Produkte (§ 650 II-IV BGB), Bauvertrag (§ 650a BGB), Verbraucherbauvertrag (§ 650i BGB), Bauträgervertrag (§ 650u BGB), Gewährleistung (§§ 633 ff. BGB), Pflichten des Bestellers, Abnahme (§ 640 BGB), Gefahrtragung (§§ 644 f. BGB), Sphärentheorie, Werkunternehmerpfandrecht (§ 647 BGB), Reiserecht (§§ 651a ff. BGB), Gewährleistung für Reisemängel (§ 651i ff. BGB), Maklervertrag (§ 652 BGB), Auftrag (§§ 662 ff. BGB)"
-    ]
+    "Beschreibung":"Typen des Werkvertrags (§ 631 BGB), Werklieferungsvertrag (§ 650 I BGB), Verbrauchervertrag über die Herstellung digitaler Produkte (§ 650 II-IV BGB), Bauvertrag (§ 650a BGB), Verbraucherbauvertrag (§ 650i BGB), Bauträgervertrag (§ 650u BGB), Gewährleistung (§§ 633 ff. BGB), Pflichten des Bestellers, Abnahme (§ 640 BGB), Gefahrtragung (§§ 644 f. BGB), Sphärentheorie, Werkunternehmerpfandrecht (§ 647 BGB), Reiserecht (§§ 651a ff. BGB), Gewährleistung für Reisemängel (§ 651i ff. BGB), Maklervertrag (§ 652 BGB), Auftrag (§§ 662 ff. BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Bürgschaft (§§ 765 ff. BGB), Abgrenzung zu Schuldbeitritt und Garantie, Form (§§ 766 BGB, 350 HGB), Einreden des Bürgen (§§ 768 ff. BGB), Verhältnis zum Hauptschuldner (§§ 774, 670 BGB), Wettlauf der Sicherungsgeber, Globalbürgschaft, Sittenwidrigkeit von Ehegattenbürgschaften, Verbraucherschutz, Schuldversprechen und Schuldanerkenntnis (§§ 780, 781 BGB)"
-    ]
+    "Beschreibung":"Bürgschaft (§§ 765 ff. BGB), Abgrenzung zu Schuldbeitritt und Garantie, Form (§§ 766 BGB, 350 HGB), Einreden des Bürgen (§§ 768 ff. BGB), Verhältnis zum Hauptschuldner (§§ 774, 670 BGB), Wettlauf der Sicherungsgeber, Globalbürgschaft, Sittenwidrigkeit von Ehegattenbürgschaften, Verbraucherschutz, Schuldversprechen und Schuldanerkenntnis (§§ 780, 781 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Geschäftsführung ohne Auftrag (§§ 677 ff. BGB), „auch fremdes Geschäft“, Fremdgeschäftsführungswillen, GoA aufgrund eines nichtigen Vertrages, Selbstaufopferung im Straßenverkehr, Ansprüche bei unberechtigter GoA, angemaßte Eigengeschäftsführung (§ 687 II BGB)"
-    ]
+    "Beschreibung":"Geschäftsführung ohne Auftrag (§§ 677 ff. BGB), „auch fremdes Geschäft“, Fremdgeschäftsführungswillen, GoA aufgrund eines nichtigen Vertrages, Selbstaufopferung im Straßenverkehr, Ansprüche bei unberechtigter GoA, angemaßte Eigengeschäftsführung (§ 687 II BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Bereicherungsrecht (§§ 812 ff. BGB), Einteilung in Leistungs- und Nichtleistungskondiktionen, Voraussetzungen der einzelnen Bereicherungsansprüche, Wegfall der Bereicherung (§ 818 III BGB), Saldotheorie, verschärfte Haftung nach §§ 818 IV, 819 I BGB"
-    ]
+    "Beschreibung":"Bereicherungsrecht (§§ 812 ff. BGB), Einteilung in Leistungs- und Nichtleistungskondiktionen, Voraussetzungen der einzelnen Bereicherungsansprüche, Wegfall der Bereicherung (§ 818 III BGB), Saldotheorie, verschärfte Haftung nach §§ 818 IV, 819 I BGB"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Bereicherungsausgleich im Dreipersonenverhältnis, Vorrang der Leistungskondiktion, „Abwicklung übers Dreieck“, Kondiktion der Kondiktion, Ausnahmen: Bösgläubigkeit, Unentgeltlichkeit, Abhandenkommen, Anweisungsfälle, Einbaufälle (§ 951 BGB)"
-    ]
+    "Beschreibung":"Bereicherungsausgleich im Dreipersonenverhältnis, Vorrang der Leistungskondiktion, „Abwicklung übers Dreieck“, Kondiktion der Kondiktion, Ausnahmen: Bösgläubigkeit, Unentgeltlichkeit, Abhandenkommen, Anweisungsfälle, Einbaufälle (§ 951 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Deliktsrecht (§§ 823 ff. BGB), absolute Rechtsgüter i.S.v. § 823 I BGB, „Fresser-Fälle“, eingerichteter und ausgeübter Gewerbebetrieb, Schutz des allgemeinen Persönlichkeitsrechts als sonstiges Recht nach § 823 I BGB und durch quasi-negatorischen Rechtsschutz (§ 1004 I BGB entsprechend)"
-    ]
+    "Beschreibung":"Deliktsrecht (§§ 823 ff. BGB), absolute Rechtsgüter i.S.v. § 823 I BGB, „Fresser-Fälle“, eingerichteter und ausgeübter Gewerbebetrieb, Schutz des allgemeinen Persönlichkeitsrechts als sonstiges Recht nach § 823 I BGB und durch quasi-negatorischen Rechtsschutz (§ 1004 I BGB entsprechend)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Verkehrssicherungspflichten, Produkthaftung und Produzentenhaftung, Schutzgesetze nach § 823 II BGB, vorsätzliche sittenwidrige Schädigung i.S.v. § 826 BGB"
-    ]
+    "Beschreibung":"Verkehrssicherungspflichten, Produkthaftung und Produzentenhaftung, Schutzgesetze nach § 823 II BGB, vorsätzliche sittenwidrige Schädigung i.S.v. § 826 BGB"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Mehrheit von Schädigern (§§ 830, 840 BGB), Haftung für Verrichtungsgehilfen (§ 831 BGB), Organhaftung (§ 31 BGB), Gefährdungshaftung (§ 7 StVG, § 833 BGB), Ansprüche bei Eigentumsstörung (§ 1004 BGB)"
-    ]
+    "Beschreibung":"Mehrheit von Schädigern (§§ 830, 840 BGB), Haftung für Verrichtungsgehilfen (§ 831 BGB), Organhaftung (§ 31 BGB), Gefährdungshaftung (§ 7 StVG, § 833 BGB), Ansprüche bei Eigentumsstörung (§ 1004 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Schuldrecht BT",
-    "Beschreibung": [
-      "Schadensrecht (§§ 249 ff. BGB), Grundsatz der Naturalrestitution, Schadenszurechnung, Schmerzensgeld (§ 253 BGB), Mitverschulden (§ 254 BGB), gesetzliche Haftungsmilderungen (§§ 521, 599, 690, 1359, 1664 BGB)"
-    ]
+    "Beschreibung":"Schadensrecht (§§ 249 ff. BGB), Grundsatz der Naturalrestitution, Schadenszurechnung, Schmerzensgeld (§ 253 BGB), Mitverschulden (§ 254 BGB), gesetzliche Haftungsmilderungen (§§ 521, 599, 690, 1359, 1664 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Grundprinzipien des Sachenrechts: Publizität, Absolutheit, Bestimmtheit, Typenzwang, Abstraktionsprinzip, Definition von Sache (§§ 90 ff. BGB), Verfügung und Besitz (§§ 854 ff. BGB), mittelbarer Besitz (§ 868 BGB), Eigen- und Fremdbesitz, Besitzschutz gegen verbotene Eigenmacht (§ 861 ff. BGB)"
-    ]
+    "Beschreibung":"Grundprinzipien des Sachenrechts: Publizität, Absolutheit, Bestimmtheit, Typenzwang, Abstraktionsprinzip, Definition von Sache (§§ 90 ff. BGB), Verfügung und Besitz (§§ 854 ff. BGB), mittelbarer Besitz (§ 868 BGB), Eigen- und Fremdbesitz, Besitzschutz gegen verbotene Eigenmacht (§ 861 ff. BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Übereignung beweglicher Sachen nach § 929 BGB, Übergabesurrogate: Übereignung kurzer Hand (§ 929 S. 2 BGB), Besitzkonstitut (§ 930 BGB), Abtretung des Herausgabeanspruchs (§ 931 BGB), Voraussetzungen des gutgläubigen Erwerbs (§§ 932 ff. BGB, 366 HGB), Abhandenkommen (§ 935 BGB), Rechtsgeschäft im Sinne eines Verkehrsgeschäfts"
-    ]
+    "Beschreibung":"Übereignung beweglicher Sachen nach § 929 BGB, Übergabesurrogate: Übereignung kurzer Hand (§ 929 S. 2 BGB), Besitzkonstitut (§ 930 BGB), Abtretung des Herausgabeanspruchs (§ 931 BGB), Voraussetzungen des gutgläubigen Erwerbs (§§ 932 ff. BGB, 366 HGB), Abhandenkommen (§ 935 BGB), Rechtsgeschäft im Sinne eines Verkehrsgeschäfts"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Eigentumsvorbehalt auf dinglicher Ebene (§§ 929, 158 BGB), Kollision verlängerter Eigentumsvorbehalt mit Globalzession oder Factoring, Anwartschaftsrecht, gutgläubiger Erwerb eines Anwartschaftsrechts"
-    ]
+    "Beschreibung":"Eigentumsvorbehalt auf dinglicher Ebene (§§ 929, 158 BGB), Kollision verlängerter Eigentumsvorbehalt mit Globalzession oder Factoring, Anwartschaftsrecht, gutgläubiger Erwerb eines Anwartschaftsrechts"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Sicherungsübereignung (§ 930 BGB), Sicherungsabrede, Bestimmtheit bei Raumsicherungsverträgen, Übersicherung und Freigabeklausel, Rückübertragungsanspruch nach Tilgung des Kredits oder auflösende Bedingung"
-    ]
+    "Beschreibung":"Sicherungsübereignung (§ 930 BGB), Sicherungsabrede, Bestimmtheit bei Raumsicherungsverträgen, Übersicherung und Freigabeklausel, Rückübertragungsanspruch nach Tilgung des Kredits oder auflösende Bedingung"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht 1 Bewegliche Sachen",
-    "Beschreibung": [
-      "Gesetzlicher Eigentumserwerb, Ersitzung (§ 937 BGB), Verbindung, Vermischung, Vermengung (§§ 946 ff. BGB), Verarbeitung (§ 950 BGB), Verarbeitungsklauseln, gesetzlicher Fruchterwerb (§§ 953 ff. BGB), Pfandrecht (§§ 1204 ff. BGB)"
-    ]
+    "Beschreibung":"Gesetzlicher Eigentumserwerb, Ersitzung (§ 937 BGB), Verbindung, Vermischung, Vermengung (§§ 946 ff. BGB), Verarbeitung (§ 950 BGB), Verarbeitungsklauseln, gesetzlicher Fruchterwerb (§§ 953 ff. BGB), Pfandrecht (§§ 1204 ff. BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Anspruchsvoraussetzungen von § 985 und § 1007 BGB, Abschlussfunktion des EBV, Recht zum Besitz i.S.v. § 986 BGB, Zurückbehaltungsrecht als Recht zum Besitz, Nicht-so-Berechtigter, Aufschwungexzess, Überblick über die Ansprüche nach §§ 987 ff. BGB"
-    ]
+    "Beschreibung":"Anspruchsvoraussetzungen von § 985 und § 1007 BGB, Abschlussfunktion des EBV, Recht zum Besitz i.S.v. § 986 BGB, Zurückbehaltungsrecht als Recht zum Besitz, Nicht-so-Berechtigter, Aufschwungexzess, Überblick über die Ansprüche nach §§ 987 ff. BGB"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Ausnahmen von der Abschlussfunktion des EBV: Rechtsfortwirkungsansprüche und Fremdbesitzerexzess, Bösgläubigkeit von Minderjährigen und Hilfspersonen bei § 990 BGB, Gleichstellung des rechtsgrundlosen mit dem unentgeltlichen Besitz bei § 988 BGB, EBV und nicht-mehr-Berechtigter, Verwendungsbegriff des § 994 BGB bei Grundstücken"
-    ]
+    "Beschreibung":"Ausnahmen von der Abschlussfunktion des EBV: Rechtsfortwirkungsansprüche und Fremdbesitzerexzess, Bösgläubigkeit von Minderjährigen und Hilfspersonen bei § 990 BGB, Gleichstellung des rechtsgrundlosen mit dem unentgeltlichen Besitz bei § 988 BGB, EBV und nicht-mehr-Berechtigter, Verwendungsbegriff des § 994 BGB bei Grundstücken"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Eigentumsübertragung an Grundstücken (§§ 873, 925 BGB), Voraussetzungen der Auflassung (§ 925 BGB), gutgläubiger Erwerb (§§ 892, 893 BGB), Sonderfall: gutgläubiger Erwerb von der eGbR (§ 707a III BGB)"
-    ]
+    "Beschreibung":"Eigentumsübertragung an Grundstücken (§§ 873, 925 BGB), Voraussetzungen der Auflassung (§ 925 BGB), gutgläubiger Erwerb (§§ 892, 893 BGB), Sonderfall: gutgläubiger Erwerb von der eGbR (§ 707a III BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Grundbuchberichtigungsanspruch (§ 894 BGB), formelles Grundbuchrecht (insbesondere §§ 13, 19, 29, 39 GBO), Voraussetzungen und Wirkung der Vormerkung (§§ 883, 888 BGB), gutgläubiger Erst- und Zweiterwerb der Vormerkung"
-    ]
+    "Beschreibung":"Grundbuchberichtigungsanspruch (§ 894 BGB), formelles Grundbuchrecht (insbesondere §§ 13, 19, 29, 39 GBO), Voraussetzungen und Wirkung der Vormerkung (§§ 883, 888 BGB), gutgläubiger Erst- und Zweiterwerb der Vormerkung"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Erst- und Zweiterwerb der Hypothek (§ 1113 BGB), Folgen der Zahlung auf eine Hypothek, zwangsweise Durchsetzung der Hypothek (§ 1147 BGB, § 794 Nr. 5 ZPO), Aufbauschema einer Vollstreckungsabwehrklage"
-    ]
+    "Beschreibung":"Erst- und Zweiterwerb der Hypothek (§ 1113 BGB), Folgen der Zahlung auf eine Hypothek, zwangsweise Durchsetzung der Hypothek (§ 1147 BGB, § 794 Nr. 5 ZPO), Aufbauschema einer Vollstreckungsabwehrklag"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Haftungsverband (§§ 1120 ff. BGB), Anwartschaftsrecht als wesensgleiches Minus im Haftungsverband, Fiktion der Bösgläubigkeit nach § 23 II 2 ZVG"
-    ]
+    "Beschreibung":"Haftungsverband (§§ 1120 ff. BGB), Anwartschaftsrecht als wesensgleiches Minus im Haftungsverband, Fiktion der Bösgläubigkeit nach § 23 II 2 ZVG"
   },
   {
     "Rechtsgebiet": "Zivilrecht",
     "Unterrechtsgebiet": "Sachenrecht",
-    "Beschreibung": [
-      "Erst- und Zweiterwerb einer Grundschuld (§§ 1191 ff. BGB), Buch- und Briefgrundschuld, Zahlung auf die Grundschuld und Einreden (insbesondere: § 1192 Ia BGB), Überblick: Reallast, Nießbrauch, Dienstbarkeit"
-    ]
+    "Beschreibung":"Erst- und Zweiterwerb einer Grundschuld (§§ 1191 ff. BGB), Buch- und Briefgrundschuld, Zahlung auf die Grundschuld und Einreden (insbesondere: § 1192 Ia BGB), Überblick: Reallast, Nießbrauch, Dienstbarkeit"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Familienrecht",
-    "Beschreibung": [
-      "Pflicht zur ehelichen Lebensgemeinschaft (§ 1353 BGB), Schutz des räumlich-gegenständlichen Bereichs der Ehe (§§ 823, 1004 BGB), Geschäfte zur angemessenen Deckung des Lebensbedarfs (§ 1357 BGB), eheliche Güterstände, Verfügungsbeschränkung in der Zugewinngemeinschaft (§§ 1365 ff. BGB)"
-    ]
+    "Beschreibung":"Pflicht zur ehelichen Lebensgemeinschaft (§ 1353 BGB), Schutz des räumlich-gegenständlichen Bereichs der Ehe (§§ 823, 1004 BGB), Geschäfte zur angemessenen Deckung des Lebensbedarfs (§ 1357 BGB), eheliche Güterstände, Verfügungsbeschränkung in der Zugewinngemeinschaft (§§ 1365 ff. BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Familienrecht",
-    "Beschreibung": [
-      "Scheidungsvoraussetzungen (§§ 1567 ff. BGB), Eigentumsvermutung nach § 1362 BGB, Zugewinnausgleich bei der Scheidung (§§ 1372 ff. BGB), Rückgewähr von Zuwendungen unter Ehegatten und bei nichtehelichen Lebensgemeinschaften"
-    ]
+    "Beschreibung":"Scheidungsvoraussetzungen (§§ 1567 ff. BGB), Eigentumsvermutung nach § 1362 BGB, Zugewinnausgleich bei der Scheidung (§§ 1372 ff. BGB), Rückgewähr von Zuwendungen unter Ehegatten und bei nichtehelichen Lebensgemeinschaften"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Erbrecht",
-    "Beschreibung": [
-      "Prinzip der Universalsukzession, gesetzliche Erbfolge (§§ 1924 ff. BGB), Ehegattenerbrecht (§ 1371 BGB), Formen der Verfügung von Todes wegen, Wirksamkeitsvoraussetzungen eines Testaments, Widerruf eines Testaments (§§ 2254 ff. BGB), Anfechtung eines Testaments (§§ 2078, 2079 BGB)"
-    ]
+    "Beschreibung":"Prinzip der Universalsukzession, gesetzliche Erbfolge (§§ 1924 ff. BGB), Ehegattenerbrecht (§ 1371 BGB), Formen der Verfügung von Todes wegen, Wirksamkeitsvoraussetzungen eines Testaments, Widerruf eines Testaments (§§ 2254 ff. BGB), Anfechtung eines Testaments (§§ 2078, 2079 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Erbrecht",
-    "Beschreibung": [
-      "Gemeinschaftliches Testament (§§ 2265 ff. BGB), Erbvertrag, Auslegung von Verfügungen von Todes wegen, Abgrenzung Erbeinsetzung und Vermächtnis (§ 2147 BGB), Auslegung des Berliner Testaments, Erbenbesitz (§ 857 BGB), Überblick: Erbengemeinschaft (§§ 2032 ff. BGB)"
-    ]
+    "Beschreibung":"Gemeinschaftliches Testament (§§ 2265 ff. BGB), Erbvertrag, Auslegung von Verfügungen von Todes wegen, Abgrenzung Erbeinsetzung und Vermächtnis (§ 2147 BGB), Auslegung des Berliner Testaments, Erbenbesitz (§ 857 BGB), Überblick: Erbengemeinschaft (§§ 2032 ff. BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Erbrecht",
-    "Beschreibung": [
-      "Erbschaftsanspruch (§§ 2018 ff. BGB), Erbschein und gutgläubiger Erwerb (§§ 2366, 2367 BGB), Pflichtteilsrecht (§§ 2303 ff. BGB), Schenkung von Todes wegen (§ 2301 BGB), Vertrag zugunsten Dritter auf den Todesfall (§ 331 BGB)"
-    ]
+    "Beschreibung":"Erbschaftsanspruch (§§ 2018 ff. BGB), Erbschein und gutgläubiger Erwerb (§§ 2366, 2367 BGB), Pflichtteilsrecht (§§ 2303 ff. BGB), Schenkung von Todes wegen (§ 2301 BGB), Vertrag zugunsten Dritter auf den Todesfall (§ 331 BGB)"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Handels- und Gesellschaftsrecht",
-    "Beschreibung": [
-      "Begriff des Kaufmanns (§§ 1 ff. HGB) und der Firma (§§ 17 ff. HGB), Publizität des Handelsregisters (§ 15 HGB), Prokura (§§ 48 ff. HGB), Sonderregelungen für Handelsgeschäfte (§§ 343 ff. HGB, insbesondere § 366 HGB, § 377 f. HGB)"
-    ]
+    "Beschreibung":"Begriff des Kaufmanns (§§ 1 ff. HGB) und der Firma (§§ 17 ff. HGB), Publizität des Handelsregisters (§ 15 HGB), Prokura (§§ 48 ff. HGB), Sonderregelungen für Handelsgeschäfte (§§ 343 ff. HGB, insbesondere § 366 HGB, § 377 f. HGB)"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Handels- und Gesellschaftsrecht",
-    "Beschreibung": [
-      "Unterscheidung Personen- und Kapitalgesellschaften, Formen und Unterschiede der Personengesellschaften: GbR (§§ 705 ff. BGB), OHG (§§ 105 ff. HGB), KG (§§ 161 ff. HGB), rechtsfähige und nicht rechtsfähige GbR (§§ 705 II, 740 BGB), Gesellschaftsregister und eGbR (§ 707, § 707a III BGB), Vertretung"
-    ]
+    "Beschreibung":"Unterscheidung Personen- und Kapitalgesellschaften, Formen und Unterschiede der Personengesellschaften: GbR (§§ 705 ff. BGB), OHG (§§ 105 ff. HGB), KG (§§ 161 ff. HGB), rechtsfähige und nicht rechtsfähige GbR (§§ 705 II, 740 BGB), Gesellschaftsregister und eGbR (§ 707, § 707a III BGB), Vertretung"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Handels- und Gesellschaftsrecht",
-    "Beschreibung": [
-      "Haftung bei Personengesellschaften (insbesondere: §§ 31 BGB analog, 721 BGB, 126 HGB), Einwendungen des Gesellschafters nach §§ 721b, 128 HGB, Haftung für Altschulden (§§ 721a BGB, 127 HGB), Innenverhältnis, Sozialansprüche, actio pro socio, Vererbung von Gesellschaftsanteilen"
+    "Beschreibung":"Haftung bei Personengesellschaften (insbesondere: §§ 31 BGB analog, 721 BGB, 126 HGB), Einwendungen des Gesellschafters nach §§ 721b, 128 HGB, Haftung für Altschulden (§§ 721a BGB, 127 HGB), Innenverhältnis, Sozialansprüche, actio pro socio, Vererbung von Gesellschaftsanteilen"
+  },
+  {
+    "Rechtsgebiet": "Zivilrechtliche",
+    "Unterrechtsgebiet": "Arbeitsrecht",
+    "Beschreibung":"Arbeitsvertrag und Arbeitnehmerbegriff, Rechtsquellen des Arbeitsrechts, faktisches Arbeitsverhältnis, Direktionsbefugnis (§ 315 III 1 BGB), privilegierte Arbeitnehmerhaftung, betriebliche Übung"
     ]
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "Arbeitsrecht",
-    "Beschreibung": [
-      "Arbeitsvertrag und Arbeitnehmerbegriff, Rechtsquellen des Arbeitsrechts, faktisches Arbeitsverhältnis, Direktionsbefugnis (§ 315 III 1 BGB), privilegierte Arbeitnehmerhaftung, betriebliche Übung"
-    ]
-  },
-  {
-    "Rechtsgebiet": "Zivilrechtliche",
-    "Unterrechtsgebiet": "Arbeitsrecht",
-    "Beschreibung": [
-      "Gläubigerannahmeverzug des Arbeitgebers (§ 615 BGB) und Betriebsrisikolehre, Voraussetzungen der außerordentlichen und ordentlichen Kündigung nach BGB und KSchG, Überblick: kollektives Arbeitsrecht und arbeitsgerichtliches Verfahren"
-    ]
+    "Beschreibung":"Gläubigerannahmeverzug des Arbeitgebers (§ 615 BGB) und Betriebsrisikolehre, Voraussetzungen der außerordentlichen und ordentlichen Kündigung nach BGB und KSchG, Überblick: kollektives Arbeitsrecht und arbeitsgerichtliches Verfahren"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "ZPO",
-    "Beschreibung": [
-      "Verfahrensgrundsätze, Zulässigkeitsvoraussetzungen einer Klage, sachliche (§§ 23, 71 GVG) und örtliche Zuständigkeit, Gerichtsstände, Prozessstandschaft, Klageerhebung (§ 253 ZPO), Rechtshängigkeit"
-    ]
+    "Beschreibung":"Verfahrensgrundsätze, Zulässigkeitsvoraussetzungen einer Klage, sachliche (§§ 23, 71 GVG) und örtliche Zuständigkeit, Gerichtsstände, Prozessstandschaft, Klageerhebung (§ 253 ZPO), Rechtshängigkeit"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "ZPO",
-    "Beschreibung": [
-      "Ablauf des Klageverfahrens, Beweisformen, Besonderheiten vor den Amtsgerichten (§§ 495 ff. ZPO), Inhalt eines Urteils (§ 313 ZPO), Überblick: Klageänderung, Klagehäufung, Veräußerung des Streitgegenstands (§ 265 ZPO), Aufrechnung, Widerklage, Streitgenossenschaft, Nebenintervention"
-    ]
+    "Beschreibung":"Ablauf des Klageverfahrens, Beweisformen, Besonderheiten vor den Amtsgerichten (§§ 495 ff. ZPO), Inhalt eines Urteils (§ 313 ZPO), Überblick: Klageänderung, Klagehäufung, Veräußerung des Streitgegenstands (§ 265 ZPO), Aufrechnung, Widerklage, Streitgenossenschaft, Nebenintervention"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "ZPO",
-    "Beschreibung": [
-      "Versäumnisurteil, Klagerücknahme, Anerkenntnis, Erledigung, Prozessvergleich, Überblick: Rechtsmittel, Rechtskraft (§ 322 ZPO), Mahnverfahren, Arrest und einstweilige Verfügung"
-    ]
+    "Beschreibung":"Versäumnisurteil, Klagerücknahme, Anerkenntnis, Erledigung, Prozessvergleich, Überblick: Rechtsmittel, Rechtskraft (§ 322 ZPO), Mahnverfahren, Arrest und einstweilige Verfügung"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "ZPO",
-    "Beschreibung": [
-      "Voraussetzungen der Zwangsvollstreckung (Titel, Klausel, Zustellung), unpfändbare Sachen (§ 811 ZPO), Vollstreckung in bewegliches Vermögen, Pfändungspfandrecht (§ 804 I ZPO), Versteigerung, Zwangsvollstreckung in Grundstücke (ZVG), geringstes Gebot (§ 44 ZVG), Zubehörserstreckung"
-    ]
+    "Beschreibung":"Voraussetzungen der Zwangsvollstreckung (Titel, Klausel, Zustellung), unpfändbare Sachen (§ 811 ZPO), Vollstreckung in bewegliches Vermögen, Pfändungspfandrecht (§ 804 I ZPO), Versteigerung, Zwangsvollstreckung in Grundstücke (ZVG), geringstes Gebot (§ 44 ZVG), Zubehörserstreckung"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "ZPO",
-    "Beschreibung": [
-      "Zwangsvollstreckung in Forderungen (§§ 828 ff. ZPO), sonstige Zwangsvollstreckung (§§ 883 ff. ZPO), Rechtsbehelfe: Vollstreckungserinnerung (§ 766 ZPO), Vollstreckungsgegenklage (§ 767 ZPO), Drittwiderspruchsklage (§ 771 ZPO), Klage auf vorzugsweise Befriedigung (§ 805 ZPO)"
-    ]
+    "Beschreibung":"Zwangsvollstreckung in Forderungen (§§ 828 ff. ZPO), sonstige Zwangsvollstreckung (§§ 883 ff. ZPO), Rechtsbehelfe: Vollstreckungserinnerung (§ 766 ZPO), Vollstreckungsgegenklage (§ 767 ZPO), Drittwiderspruchsklage (§ 771 ZPO), Klage auf vorzugsweise Befriedigung (§ 805 ZPO)"
   },
   {
     "Rechtsgebiet": "Zivilrechtliche",
     "Unterrechtsgebiet": "IPR",
-    "Beschreibung": [
-      "Rechtsquellen des IPR, Grundprinzipien, anwendbares Recht nach Rom I und Rom II (insbesondere Vertragsrecht und Verbraucherschutz), internationale Gerichtszuständigkeit, lex fori"
-    ]
+    "Beschreibung":"Rechtsquellen des IPR, Grundprinzipien, anwendbares Recht nach Rom I und Rom II (insbesondere Vertragsrecht und Verbraucherschutz), internationale Gerichtszuständigkeit, lex fori"
+    },
+  {
+    "Rechtsgebiet": "Strafrecht",
+    "Unterrechtsgebiet": "Strafrecht AT",
+    "Beschreibung":"Kausalität, Äquivalenztheorie, objektive Zurechnung, alternative und kumulative Kausalität, freiverantwortliche Selbstgefährdung, Vorsatzformen, Abgrenzung dolus eventualis zu bewusster Fahrlässigkeit"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Kausalität, Äquivalenztheorie, objektive Zurechnung, alternative und kumulative Kausalität, freiverantwortliche Selbstgefährdung, Vorsatzformen, Abgrenzung dolus eventualis zu bewusster Fahrlässigkeit"
-    ]
+    "Beschreibung":"Rechtfertigungsgründe, Notwehr (§ 32 StGB), Rechtsbewährungsprinzip, Einschränkungen, Notwehrprovokation, fehlender Verteidigungswille, Aggressiv- und Defensivnotstand (§§ 904, 228 BGB), Besitzkehr und Besitzwehr, Selbsthilfe (§ 229 BGB), Festnahmerecht (§ 127 StPO), rechtfertigender Notstand (§ 34 StGB), Nötigungsnotstand"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Rechtfertigungsgründe, Notwehr (§ 32 StGB), Rechtsbewährungsprinzip, Einschränkungen, Notwehrprovokation, fehlender Verteidigungswille, Aggressiv- und Defensivnotstand (§§ 904, 228 BGB), Besitzkehr und Besitzwehr, Selbsthilfe (§ 229 BGB), Festnahmerecht (§ 127 StPO), rechtfertigender Notstand (§ 34 StGB), Nötigungsnotstand"
-    ]
+    "Beschreibung":"Rechtfertigende Einwilligung, tatbestandsausschließendes Einverständnis, mutmaßliche Einwilligung, Schuldfähigkeit (§§ 20, 21 StGB), actio libera in causa, Notwehrexzess (§ 33 StGB), entschuldigender Notstand (§ 35 StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Rechtfertigende Einwilligung, tatbestandsausschließendes Einverständnis, mutmaßliche Einwilligung, Schuldfähigkeit (§§ 20, 21 StGB), actio libera in causa, Notwehrexzess (§ 33 StGB), entschuldigender Notstand (§ 35 StGB)"
-    ]
+    "Beschreibung":"Fahrlässigkeitsdelikt, unbewusste und bewusste Fahrlässigkeit, pflichtgemäßes Alternativverhalten, erfolgsqualifizierte Delikte (§§ 227, 251, 306c StGB), gefahrenspezifischer Zusammenhang"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Fahrlässigkeitsdelikt, unbewusste und bewusste Fahrlässigkeit, pflichtgemäßes Alternativverhalten, erfolgsqualifizierte Delikte (§§ 227, 251, 306c StGB), gefahrenspezifischer Zusammenhang"
-    ]
+    "Beschreibung":"Täterschaft und Teilnahme, subjektive Theorie und Tatherrschaftslehre, Mittäterschaft (§ 25 II StGB), sukzessive Mittäterschaft"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Täterschaft und Teilnahme, subjektive Theorie und Tatherrschaftslehre, Mittäterschaft (§ 25 II StGB), sukzessive Mittäterschaft"
-    ]
+    "Beschreibung":"Mittelbare Täterschaft (§ 25 I Alt. 2 StGB), Täter hinter dem Täter"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Mittelbare Täterschaft (§ 25 I Alt. 2 StGB), Täter hinter dem Täter"
-    ]
+    "Beschreibung":"Anstiftung (§ 26 StGB), limitierte Akzessorietät, Um-, Ab- und Aufstiftung, omnimodo facturus, Doppelvorsatz, agent provocateur, Beihilfe (§ 27 StGB), Versuch der Anstiftung und Verabredung zum Verbrechen (§ 30 StGB), besondere persönliche Merkmale (§ 28 StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Anstiftung (§ 26 StGB), limitierte Akzessorietät, Um-, Ab- und Aufstiftung, omnimodo facturus, Doppelvorsatz, agent provocateur, Beihilfe (§ 27 StGB), Versuch der Anstiftung und Verabredung zum Verbrechen (§ 30 StGB), besondere persönliche Merkmale (§ 28 StGB)"
-    ]
+    "Beschreibung":"Versuch (§ 22 StGB), Tatentschluss, Wahndelikt, unmittelbares Ansetzen, Rücktritt (§ 24 StGB), unbeendeter und beendeter Versuch, Einzelaktstheorie und Gesamtbetrachtung, Zweckerreichung, mehrere Beteiligte (§ 24 II StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Versuch (§ 22 StGB), Tatentschluss, Wahndelikt, unmittelbares Ansetzen, Rücktritt (§ 24 StGB), unbeendeter und beendeter Versuch, Einzelaktstheorie und Gesamtbetrachtung, Zweckerreichung, mehrere Beteiligte (§ 24 II StGB)"
-    ]
+    "Beschreibung":"Unterlassen vs. aktives Tun, Kausalität beim Unterlassen, Garantenstellung (§ 13 StGB), rechtfertigende Pflichtenkollision, Versuchsbeginn beim Unterlassen, Täterschaft und Teilnahme beim Unterlassen"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Unterlassen vs. aktives Tun, Kausalität beim Unterlassen, Garantenstellung (§ 13 StGB), rechtfertigende Pflichtenkollision, Versuchsbeginn beim Unterlassen, Täterschaft und Teilnahme beim Unterlassen"
-    ]
+    "Beschreibung":"Irrtümer: Tatbestandsirrtum (§ 16 StGB), Verbotsirrtum (§ 17 StGB), Erlaubnisirrtum und Erlaubnistatbestandsirrtum, error in persona vs. aberratio ictus, Fälle des Verbotsirrtums"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Irrtümer: Tatbestandsirrtum (§ 16 StGB), Verbotsirrtum (§ 17 StGB), Erlaubnisirrtum und Erlaubnistatbestandsirrtum, error in persona vs. aberratio ictus, Fälle des Verbotsirrtums"
-    ]
+    "Beschreibung":"Irrtümer über Rechtswidrigkeit: ETBI vs. Erlaubnisirrtum, Theorienstreit, Doppelirrtum, Zurechnung beim Hintermann, Irrtum über Täterrolle"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Irrtümer über Rechtswidrigkeit: ETBI vs. Erlaubnisirrtum, Theorienstreit, Doppelirrtum, Zurechnung beim Hintermann, Irrtum über Täterrolle"
-    ]
-  },
-  {
-    "Rechtsgebiet": "Strafrecht",
-    "Unterrechtsgebiet": "Strafrecht AT",
-    "Beschreibung": [
-      "Konkurrenzen: Tateinheit (§ 52 StGB), Tatmehrheit (§ 53 StGB), Gesetzeskonkurrenz, Spezialität, Subsidiarität, Konsumtion, Wahlfeststellung"
-    ]
+    "Beschreibung":"Konkurrenzen: Tateinheit (§ 52 StGB), Tatmehrheit (§ 53 StGB), Gesetzeskonkurrenz, Spezialität, Subsidiarität, Konsumtion, Wahlfeststellung"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Mord und Totschlag (§§ 211, 212 StGB), Mordmerkmale, Sterbehilfe, Beihilfe zum Suizid, fahrlässige Tötung (§ 222 StGB), Aussetzung (§ 221 StGB)"
-    ]
+    "Beschreibung":"Mord und Totschlag (§§ 211, 212 StGB), Mordmerkmale, Sterbehilfe, Beihilfe zum Suizid, fahrlässige Tötung (§ 222 StGB), Aussetzung (§ 221 StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Körperverletzung (§ 223 StGB), Qualifikationen (§§ 224, 226, 227 StGB), Einwilligung (§ 228 StGB), fahrlässige Körperverletzung (§ 230 StGB), Konkurrenz zu Tötungsdelikten"
-    ]
+    "Beschreibung":"Körperverletzung (§ 223 StGB), Qualifikationen (§§ 224, 226, 227 StGB), Einwilligung (§ 228 StGB), fahrlässige Körperverletzung (§ 230 StGB), Konkurrenz zu Tötungsdelikten"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Nötigung (§ 240 StGB), Gewalt und Drohung, Verwerflichkeit (§ 240 II StGB), Sitzblockaden, Freiheitsberaubung (§ 239 StGB), erpresserischer Menschenraub (§ 239a StGB), Geiselnahme (§ 239b StGB) und Verhältnis zur räuberischen Erpressung (§§ 253, 255 StGB)"
-    ]
+    "Beschreibung":"Nötigung (§ 240 StGB), Gewalt und Drohung, Verwerflichkeit (§ 240 II StGB), Sitzblockaden, Freiheitsberaubung (§ 239 StGB), erpresserischer Menschenraub (§ 239a StGB), Geiselnahme (§ 239b StGB) und Verhältnis zur räuberischen Erpressung (§§ 253, 255 StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Brandstiftung (§§ 306 ff. StGB), Inbrandsetzen, Schutzgüter, teleologische Reduktion, Ermöglichungsabsicht (§ 306b II Nr. 2 StGB), Retterfälle (§ 306c StGB), tätige Reue"
-    ]
+    "Beschreibung":"Brandstiftung (§§ 306 ff. StGB), Inbrandsetzen, Schutzgüter, teleologische Reduktion, Ermöglichungsabsicht (§ 306b II Nr. 2 StGB), Retterfälle (§ 306c StGB), tätige Reue"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Straßenverkehrsdelikte, Abgrenzung §§ 315b, 315c, 316 StGB, abstraktes vs. konkretes Gefährdungsdelikt, Fahruntüchtigkeit, Promillegrenzen, Rennen (§ 315d StGB), Vollrausch (§ 323a StGB), Unerlaubtes Entfernen (§ 142 StGB), Unterlassene Hilfeleistung (§ 323c StGB)"
-    ]
+    "Beschreibung":"Straßenverkehrsdelikte, Abgrenzung §§ 315b, 315c, 316 StGB, abstraktes vs. konkretes Gefährdungsdelikt, Fahruntüchtigkeit, Promillegrenzen, Rennen (§ 315d StGB), Vollrausch (§ 323a StGB), Unerlaubtes Entfernen (§ 142 StGB), Unterlassene Hilfeleistung (§ 323c StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Hausfriedensbruch (§ 123 StGB), Beleidigung (§§ 185 ff. StGB), Überblick: Delikte gegen den persönlichen Lebens- und Geheimnisbereich, Widerstand gegen Vollstreckungsbeamte (§ 113 StGB)"
-    ]
+    "Beschreibung":"Hausfriedensbruch (§ 123 StGB), Beleidigung (§§ 185 ff. StGB), Überblick: Delikte gegen den persönlichen Lebens- und Geheimnisbereich, Widerstand gegen Vollstreckungsbeamte (§ 113 StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Begünstigung (§ 257 StGB), Strafvereitelung (§ 258 StGB), Aussage- und falsche Verdächtigungsdelikte (§§ 153 ff., 164 StGB), Vortäuschen einer Straftat (§ 145d StGB), Überblick: Amtsdelikte (§§ 331 StGB)"
-    ]
+    "Beschreibung":"Begünstigung (§ 257 StGB), Strafvereitelung (§ 258 StGB), Aussage- und falsche Verdächtigungsdelikte (§§ 153 ff., 164 StGB), Vortäuschen einer Straftat (§ 145d StGB), Überblick: Amtsdelikte (§§ 331 StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Diebstahl (§ 242 StGB), Wegnahme, Gewahrsam, Trickdiebstahl vs. Betrug, Zueignungsabsicht, besonders schwere Fälle (§ 243 StGB), § 244 StGB, Unterschlagung (§ 246 StGB)"
-    ]
+    "Beschreibung":"Diebstahl (§ 242 StGB), Wegnahme, Gewahrsam, Trickdiebstahl vs. Betrug, Zueignungsabsicht, besonders schwere Fälle (§ 243 StGB), § 244 StGB, Unterschlagung (§ 246 StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Raub (§ 249 StGB), Gewalt und Drohung, Finalzusammenhang, Scheinwaffen, Raub mit Todesfolge (§ 251 StGB), räuberischer Diebstahl (§ 252 StGB)"
-    ]
+    "Beschreibung":"Raub (§ 249 StGB), Gewalt und Drohung, Finalzusammenhang, Scheinwaffen, Raub mit Todesfolge (§ 251 StGB), räuberischer Diebstahl (§ 252 StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Erpressung und räuberische Erpressung (§§ 253, 255 StGB), Abgrenzung zu Raub, Vermögensverfügung, Verwerflichkeit (§ 253 II StGB)"
-    ]
+    "Beschreibung":"Erpressung und räuberische Erpressung (§§ 253, 255 StGB), Abgrenzung zu Raub, Vermögensverfügung, Verwerflichkeit (§ 253 II StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Betrug (§ 263 StGB), Täuschung, Irrtum, Vermögensverfügung, Vermögensschaden, konkludente Täuschung und Unterlassen, ignorantia facti, Dreiecksbetrug"
-    ]
+    "Beschreibung":"Betrug (§ 263 StGB), Täuschung, Irrtum, Vermögensverfügung, Vermögensschaden, konkludente Täuschung und Unterlassen, ignorantia facti, Dreiecksbetrug"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Vermögensbegriff, persönlicher Schadenseinschlag, Zweckverfehlungslehre, Anstellungsbetrug, gutgläubiger Erwerb als Schaden, Bereicherungsabsicht, Stoffgleichheit"
-    ]
+    "Beschreibung":"Vermögensbegriff, persönlicher Schadenseinschlag, Zweckverfehlungslehre, Anstellungsbetrug, gutgläubiger Erwerb als Schaden, Bereicherungsabsicht, Stoffgleichheit"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Untreue (§ 266 StGB), Missbrauchs- und Treubruchtatbestand, Vermögensbetreuungspflicht, Computerbetrug (§ 263a StGB), Kreditkartenmissbrauch (§ 266b StGB)"
-    ]
+    "Beschreibung":"Untreue (§ 266 StGB), Missbrauchs- und Treubruchtatbestand, Vermögensbetreuungspflicht, Computerbetrug (§ 263a StGB), Kreditkartenmissbrauch (§ 266b StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Urkundenfälschung (§ 267 StGB), Urkundsbegriff, Herstellen einer unechten und Verfälschen einer echten Urkunde, Geistigkeitstheorie, zusammengesetzte Urkunde, Kopie als Urkunde, § 268, § 274, § 348, § 271 StGB"
-    ]
+    "Beschreibung":"Urkundenfälschung (§ 267 StGB), Urkundsbegriff, Herstellen einer unechten und Verfälschen einer echten Urkunde, Geistigkeitstheorie, zusammengesetzte Urkunde, Kopie als Urkunde, § 268, § 274, § 348, § 271 StGB"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "Strafrecht BT",
-    "Beschreibung": [
-      "Hehlerei (§ 259 StGB), Perpetuierungstheorie, Ersatzhehlerei, einverständliches Zusammenwirken, Absatzhilfe, Geldwäsche (§ 261 StGB), Sachbeschädigung (§ 303 StGB), Räuberischer Angriff auf Kraftfahrer (§ 316a StGB)"
-    ]
+    "Beschreibung":"Hehlerei (§ 259 StGB), Perpetuierungstheorie, Ersatzhehlerei, einverständliches Zusammenwirken, Absatzhilfe, Geldwäsche (§ 261 StGB), Sachbeschädigung (§ 303 StGB), Räuberischer Angriff auf Kraftfahrer (§ 316a StGB)"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "StPO",
-    "Beschreibung": [
-      "Grundsätze des Strafverfahrens, Verfahrensablauf, Zuständigkeiten, Hauptverhandlung, Zulässigkeit von Deals"
-    ]
+    "Beschreibung":"Grundsätze des Strafverfahrens, Verfahrensablauf, Zuständigkeiten, Hauptverhandlung, Zulässigkeit von Deals"
   },
   {
     "Rechtsgebiet": "Strafrecht",
     "Unterrechtsgebiet": "StPO",
-    "Beschreibung": [
-      "Beweisrecht, Beweisverwertungsverbote, Rechtskreistheorie, keine Frucht des verbotenen Baumes im deutschen Recht, Vernehmungen, Belehrungen, Untersuchung, Beschlagnahme, TKÜ, verdeckte Ermittler, U-Haft, vorläufige Entziehung der Fahrerlaubnis"
-    ]
+    "Beschreibung":"Beweisrecht, Beweisverwertungsverbote, Rechtskreistheorie, keine Frucht des verbotenen Baumes im deutschen Recht, Vernehmungen, Belehrungen, Untersuchung, Beschlagnahme, TKÜ, verdeckte Ermittler, U-Haft, vorläufige Entziehung der Fahrerlaubnis"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatsorganisationsrecht",
-    "Beschreibung": [
-      "Verfassungsprinzipien, Volkssouveränität, wehrhafte Demokratie, Parteien"
-    ]
+    "Beschreibung":"Verfassungsprinzipien, Volkssouveränität, wehrhafte Demokratie, Parteien"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatsorganisationsrecht",
-    "Beschreibung": [
-      "Rechtsstaatsprinzip: Normhierarchie, Gewaltenteilung, Vorrang/Vorbehalt des Gesetzes, Wesentlichkeit, Bestimmtheit, Rückwirkungsverbot"
-    ]
+    "Beschreibung":"Rechtsstaatsprinzip: Normhierarchie, Gewaltenteilung, Vorrang/Vorbehalt des Gesetzes, Wesentlichkeit, Bestimmtheit, Rückwirkungsverbot"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatsorganisationsrecht",
-    "Beschreibung": [
-      "Bundesstaatsprinzip, Gesetzgebungskompetenzen, Verwaltungskompetenzen, Art. 31 GG, Finanzverfassung, Bundestreue, Staatsziele, Klimaschutzurteil"
-    ]
+    "Beschreibung":"Bundesstaatsprinzip, Gesetzgebungskompetenzen, Verwaltungskompetenzen, Art. 31 GG, Finanzverfassung, Bundestreue, Staatsziele, Klimaschutzurteil"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatsorganisationsrecht",
-    "Beschreibung": [
-      "Oberste Bundesorgane, Wahlgrundsätze, Mandat, Immunität/Indemnität, Fraktionen, Untersuchungsausschüsse, Gesetzgebungsverfahren"
-    ]
+    "Beschreibung":"Oberste Bundesorgane, Wahlgrundsätze, Mandat, Immunität/Indemnität, Fraktionen, Untersuchungsausschüsse, Gesetzgebungsverfahren"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatsorganisationsrecht",
-    "Beschreibung": [
-      "Bundesregierung, Kanzlerwahl, Kanzler-, Ressort-, Kollegialprinzip, Richtlinienkompetenz, Vertrauensfrage, Bundespräsident, Bundesrat"
-    ]
+    "Beschreibung":"Bundesregierung, Kanzlerwahl, Kanzler-, Ressort-, Kollegialprinzip, Richtlinienkompetenz, Vertrauensfrage, Bundespräsident, Bundesrat"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatsorganisationsrecht",
-    "Beschreibung": [
-      "Bundesverfassungsgericht, Verfahrensarten, Bund-Länder-Streit, einstweilige Anordnung"
-    ]
+    "Beschreibung":"Bundesverfassungsgericht, Verfahrensarten, Bund-Länder-Streit, einstweilige Anordnung"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatsorganisationsrecht",
-    "Beschreibung": [
-      "Internationale Einbindung, völkerrechtliche Verträge, Bundeswehreinsätze, Verhältnis GG und EU-Recht, Solange II, Lissabon, Recht auf Vergessen, ultra vires"
-    ]
+    "Beschreibung":"Internationale Einbindung, völkerrechtliche Verträge, Bundeswehreinsätze, Verhältnis GG und EU-Recht, Solange II, Lissabon, Recht auf Vergessen, ultra vires"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Grundrechte",
-    "Beschreibung": [
-      "Funktionen der Grundrechte, Grundrechtsberechtigung, Grundrechtsbindung, mittelbare Drittwirkung, Aufbau der Prüfung, Verhältnis zu EMRK und GrCh"
-    ]
+    "Beschreibung":"Funktionen der Grundrechte, Grundrechtsberechtigung, Grundrechtsbindung, mittelbare Drittwirkung, Aufbau der Prüfung, Verhältnis zu EMRK und GrCh"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Grundrechte",
-    "Beschreibung": [
-      "Menschenwürde, allgemeine Handlungsfreiheit, allgemeines Persönlichkeitsrecht, informationelle Selbstbestimmung, Leben, körperliche Unversehrtheit, Freiheit"
-    ]
+    "Beschreibung":"Menschenwürde, allgemeine Handlungsfreiheit, allgemeines Persönlichkeitsrecht, informationelle Selbstbestimmung, Leben, körperliche Unversehrtheit, Freiheit"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Grundrechte",
-    "Beschreibung": [
-      "Gleichheit, spezielle Gleichheitsgebote und Diskriminierungsverbote, Religionsfreiheit, Beschränkbarkeit, Meinungs-, Presse-, Rundfunkfreiheit, allgemeines Gesetz, Kunstfreiheit"
-    ]
+    "Beschreibung":"Gleichheit, spezielle Gleichheitsgebote und Diskriminierungsverbote, Religionsfreiheit, Beschränkbarkeit, Meinungs-, Presse-, Rundfunkfreiheit, allgemeines Gesetz, Kunstfreiheit"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Grundrechte",
-    "Beschreibung": [
-      "Ehe und Familie, Versammlungsfreiheit, Vereinigungsfreiheit, Post- und Fernmeldegeheimnis, Freizügigkeit"
-    ]
+    "Beschreibung":"Ehe und Familie, Versammlungsfreiheit, Vereinigungsfreiheit, Post- und Fernmeldegeheimnis, Freizügigkeit"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Grundrechte",
-    "Beschreibung": [
-      "Berufsfreiheit, Wohnung, Eigentum, Inhalts- und Schrankenbestimmung, Enteignung"
-    ]
+    "Beschreibung":"Berufsfreiheit, Wohnung, Eigentum, Inhalts- und Schrankenbestimmung, Enteignung"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Grundrechte",
-    "Beschreibung": [
-      "Staatsangehörigkeit, Asyl, effektiver Rechtsschutz, Zugang zu Ämtern, Berufsbeamtentum, gesetzlicher Richter, rechtliches Gehör"
-    ]
+    "Beschreibung":"Staatsangehörigkeit, Asyl, effektiver Rechtsschutz, Zugang zu Ämtern, Berufsbeamtentum, gesetzlicher Richter, rechtliches Gehör"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Grundrechte",
-    "Beschreibung": [
-      "Verfassungsbeschwerde: Zulässigkeit, spezifische Grundrechtsrüge, Rechtswegerschöpfung und Subsidiarität"
-    ]
+    "Beschreibung":"Verfassungsbeschwerde: Zulässigkeit, spezifische Grundrechtsrüge, Rechtswegerschöpfung und Subsidiarität"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Verwaltungsrechtsweg (§ 40 I VwGO), Abgrenzung öffentliches Recht/Privatrecht, Zweistufentheorie, Sonderprobleme"
-    ]
+    "Beschreibung":"Verwaltungsrechtsweg (§ 40 I VwGO), Abgrenzung öffentliches Recht/Privatrecht, Zweistufentheorie, Sonderprobleme"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Anfechtungsklage, Verwaltungsakt (§ 35 VwVfG), Allgemeinverfügung, Außenwirkung im Sonderrechtsverhältnis, Bestandskraft"
-    ]
+    "Beschreibung":"Anfechtungsklage, Verwaltungsakt (§ 35 VwVfG), Allgemeinverfügung, Außenwirkung im Sonderrechtsverhältnis, Bestandskraft"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Klagebefugnis, subjektiv-öffentliche Rechte, Adressatentheorie, Vorverfahren, Frist, Beteiligten- und Prozessfähigkeit, Klagegegner, Rechtsschutzbedürfnis, Beiladung, Klagehäufung, Aufbau"
-    ]
+    "Beschreibung":"Klagebefugnis, subjektiv-öffentliche Rechte, Adressatentheorie, Vorverfahren, Frist, Beteiligten- und Prozessfähigkeit, Klagegegner, Rechtsschutzbedürfnis, Beiladung, Klagehäufung, Aufbau"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Verpflichtungsklage, Ermessensreduktion, Bescheidungsurteil, Fortsetzungsfeststellungsklage, Fallgruppen des Interesses, Widerspruchsverfahren"
-    ]
+    "Beschreibung":"Verpflichtungsklage, Ermessensreduktion, Bescheidungsurteil, Fortsetzungsfeststellungsklage, Fallgruppen des Interesses, Widerspruchsverfahren"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Allgemeine Leistungsklage, Unterlassungsklage, Feststellungsklage, Normenkontrolle, kommunaler Verfassungsstreit, Widerspruchsverfahren"
-    ]
+    "Beschreibung":"Allgemeine Leistungsklage, Unterlassungsklage, Feststellungsklage, Normenkontrolle, kommunaler Verfassungsstreit, Widerspruchsverfahren"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Vorläufiger Rechtsschutz: § 80 V vs. § 123 VwGO, Fälle des § 80 II VwGO, Drittbeteiligung, Aufbau"
-    ]
+    "Beschreibung":"Vorläufiger Rechtsschutz: § 80 V vs. § 123 VwGO, Fälle des § 80 II VwGO, Drittbeteiligung, Aufbau"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Nebenbestimmungen, reformatio in peius, Konkurrentenklage, vorbeugende Unterlassungsklage"
-    ]
+    "Beschreibung":"Nebenbestimmungen, reformatio in peius, Konkurrentenklage, vorbeugende Unterlassungsklage"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Rücknahme und Widerruf von Verwaltungsakten (§§ 48, 49 VwVfG), europarechtswidriger VA"
-    ]
+    "Beschreibung":"Rücknahme und Widerruf von Verwaltungsakten (§§ 48, 49 VwVfG), europarechtswidriger VA"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Öffentlich-rechtlicher Vertrag (§ 54 VwVfG), Wirksamkeit, Koppelungsverbot"
-    ]
+    "Beschreibung":"Öffentlich-rechtlicher Vertrag (§ 54 VwVfG), Wirksamkeit, Koppelungsverbot"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Verwaltungsrecht AT",
-    "Beschreibung": [
-      "Unbestimmte Rechtsbegriffe und Ermessen, Beurteilungsspielraum, Ermessensfehlerlehre, Ermessensreduktion auf Null, Verwaltungsvorschriften und Art. 3 I GG"
-    ]
+    "Beschreibung":"Unbestimmte Rechtsbegriffe und Ermessen, Beurteilungsspielraum, Ermessensfehlerlehre, Ermessensreduktion auf Null, Verwaltungsvorschriften und Art. 3 I GG"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Polizeirecht",
-    "Beschreibung": [
-      "Polizeiliche Generalklausel, öffentliche Sicherheit und Ordnung, Gefahrbegriff, Anscheins- und Scheingefahr, Störer, Polizeipflicht von Hoheitsträgern, Opportunitätsprinzip, Störerauswahl, Anspruch auf Einschreiten, Maßnahmen gegenüber Nichtstörern"
-    ]
+    "Beschreibung":"Polizeiliche Generalklausel, öffentliche Sicherheit und Ordnung, Gefahrbegriff, Anscheins- und Scheingefahr, Störer, Polizeipflicht von Hoheitsträgern, Opportunitätsprinzip, Störerauswahl, Anspruch auf Einschreiten, Maßnahmen gegenüber Nichtstörern"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Polizeirecht",
-    "Beschreibung": [
-      "Standardmaßnahmen, präventiv vs. repressiv, Datenerhebung und Datenschutz, Organisation und Zuständigkeit, Polizeiverordnungen"
-    ]
+    "Beschreibung":"Standardmaßnahmen, präventiv vs. repressiv, Datenerhebung und Datenschutz, Organisation und Zuständigkeit, Polizeiverordnungen"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Polizeirecht",
-    "Beschreibung": [
-      "Verwaltungsvollstreckung, Anforderungen an die Grundverfügung, Zwangsmittel, unmittelbare Ausführung, Sonderfälle, Entschädigung"
+    "Beschreibung":"Verwaltungsvollstreckung, Anforderungen an die Grundverfügung, Zwangsmittel, unmittelbare Ausführung, Sonderfälle, Entschädigung"
     ]
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Baurecht",
-    "Beschreibung": [
-      "Bauleitplanung, Verfahren, Abwägungsfehlerlehre, Unbeachtlichkeit, Rechtsschutz gegen Bebauungspläne"
-    ]
+    "Beschreibung":"Bauleitplanung, Verfahren, Abwägungsfehlerlehre, Unbeachtlichkeit, Rechtsschutz gegen Bebauungspläne"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Baurecht",
-    "Beschreibung": [
-      "Zulässigkeit von Bauvorhaben: Plan-, Innen- und Außenbereich, Einvernehmen der Gemeinde, Nachbarschutz, Rücksichtnahmegebot"
-    ]
+    "Beschreibung":"Zulässigkeit von Bauvorhaben: Plan-, Innen- und Außenbereich, Einvernehmen der Gemeinde, Nachbarschutz, Rücksichtnahmegebot"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Baurecht",
-    "Beschreibung": [
-      "Ermächtigungsgrundlagen: Baugenehmigung, Bauvorbescheid, Baueinstellung, Abbruchverfügung, Nutzungsuntersagung, baupolizeiliche Generalklausel, zuständige Behörden, Bestandsschutz"
-    ]
+    "Beschreibung":"Ermächtigungsgrundlagen: Baugenehmigung, Bauvorbescheid, Baueinstellung, Abbruchverfügung, Nutzungsuntersagung, baupolizeiliche Generalklausel, zuständige Behörden, Bestandsschutz"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Kommunalrecht",
-    "Beschreibung": [
-      "Kommunale Rechtssubjekte und Grundlagen, Organe der Gemeinde"
-    ]
+    "Beschreibung":"Kommunale Rechtssubjekte und Grundlagen, Organe der Gemeinde"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Kommunalrecht",
-    "Beschreibung": [
-      "Kompetenzen des Gemeinderats, Befangenheit, freies Mandat, Aufgaben des Bürgermeisters, Geschäfte der laufenden Verwaltung, kommunaler Verfassungsstreit, Satzungserlass"
-    ]
+    "Beschreibung":"Kompetenzen des Gemeinderats, Befangenheit, freies Mandat, Aufgaben des Bürgermeisters, Geschäfte der laufenden Verwaltung, kommunaler Verfassungsstreit, Satzungserlass"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Kommunalrecht",
-    "Beschreibung": [
-      "Zugang zu öffentlichen Einrichtungen, Anschluss- und Benutzungszwang, wirtschaftliche Betätigung, Rechtsaufsicht"
-    ]
+    "Beschreibung":"Zugang zu öffentlichen Einrichtungen, Anschluss- und Benutzungszwang, wirtschaftliche Betätigung, Rechtsaufsicht"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatshaftungsrecht",
-    "Beschreibung": [
-      "Amtshaftung, Drittbezogenheit von Amtspflichten, Folgenbeseitigungsanspruch, öffentlich-rechtlicher Unterlassungs- und Erstattungsanspruch"
-    ]
+    "Beschreibung":"Amtshaftung, Drittbezogenheit von Amtspflichten, Folgenbeseitigungsanspruch, öffentlich-rechtlicher Unterlassungs- und Erstattungsanspruch"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Staatshaftungsrecht",
-    "Beschreibung": [
-      "Enteignender und enteignungsgleicher Eingriff, Verhältnis zu polizeirechtlichen Ansprüchen, verwaltungsrechtliche Schuldverhältnisse"
-    ]
+    "Beschreibung":"Enteignender und enteignungsgleicher Eingriff, Verhältnis zu polizeirechtlichen Ansprüchen, verwaltungsrechtliche Schuldverhältnisse"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Europarecht",
-    "Beschreibung": [
-      "Organe der EU, Rechtsquellen, Verordnungen und Richtlinien, unmittelbare Drittwirkung von Richtlinien, Staatshaftung bei Nichtumsetzung (Francovich)"
-    ]
+    "Beschreibung":"Organe der EU, Rechtsquellen, Verordnungen und Richtlinien, unmittelbare Drittwirkung von Richtlinien, Staatshaftung bei Nichtumsetzung (Francovich)"
   },
   {
     "Rechtsgebiet": "Öffentliches Recht",
     "Unterrechtsgebiet": "Europarecht",
-    "Beschreibung": [
-      "Grundfreiheiten, Warenverkehrsfreiheit, Dassonville, Keck, Cassis de Dijon, Niederlassungs- und Dienstleistungsfreiheit, Verhältnis EU-Recht zu nationalem Recht, effet utile, EuGH-Verfahren, Vorabentscheidungsverfahren (Art. 267 AEUV)"
-    ]
+    "Beschreibung":"Grundfreiheiten, Warenverkehrsfreiheit, Dassonville, Keck, Cassis de Dijon, Niederlassungs- und Dienstleistungsfreiheit, Verhältnis EU-Recht zu nationalem Recht, effet utile, EuGH-Verfahren, Vorabentscheidungsverfahren (Art. 267 AEUV)"
   }
 ]
